@@ -1,0 +1,352 @@
+# 2026-11-06T07:17:15Z
+
+## quorix-server
+Nov 06 04:47:42 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 04:47:42 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 04:48:42 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 04:48:42 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 04:49:47 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 04:49:49 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 04:50:48 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 04:50:48 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 04:51:46 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 04:51:47 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:17 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:17 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:17 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:18 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:18 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:18 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:18 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:18 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:18 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:18 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:18 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:18 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:18 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:47:19 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:47:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:52:04 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:52:04 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:52:07 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:52:07 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:52:22 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:52:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:53:32 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:53:32 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:54:42 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:54:42 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:55:52 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:55:52 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:57:02 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:57:02 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:58:12 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:58:12 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 06:59:22 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 06:59:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:00:32 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:00:32 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:01:42 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:01:42 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:03:35 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:03:35 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:04:02 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:04:02 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:06:12 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:06:12 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:07:22 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:07:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:08:32 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:08:32 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:09:42 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:09:42 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:10:48 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:10:48 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:11:52 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:11:52 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:12:58 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:12:58 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:14:02 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:14:02 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:15:12 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:15:12 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 07:16:22 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 07:16:22 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+
+## quorix-web
+Oct 28 15:06:28 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 28 15:06:43 vertex-vnic waitress-serve[2228]: INFO:waitress:Serving on http://x.x.x.x:8080
+Oct 28 15:09:52 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Oct 28 15:09:52 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Oct 28 15:09:52 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 28 15:09:52 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 28 15:09:54 vertex-vnic waitress-serve[5459]: INFO:waitress:Serving on http://x.x.x.x:8080
+Oct 28 15:16:36 vertex-vnic systemd[1]: quorix-web.service: Current command vanished from the unit file, execution of the command list won't be resumed.
+Oct 28 15:16:39 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Oct 28 15:16:39 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Oct 28 15:16:39 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 28 15:16:39 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 28 15:16:40 vertex-vnic waitress-serve[6071]: INFO:waitress:Serving on http://x.x.x.x:8080
+Oct 28 15:53:18 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Oct 28 15:53:18 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Oct 28 15:53:18 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 28 15:53:18 vertex-vnic systemd[1]: quorix-web.service: Consumed 4.484s CPU time, 24.6M memory peak.
+Oct 28 15:53:18 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 28 15:53:21 vertex-vnic waitress-serve[9154]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Oct 29 13:28:29 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 29 13:29:00 vertex-vnic waitress-serve[2226]: INFO:waitress:Serving on http://x.x.x.x:8080
+Oct 29 14:48:58 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Oct 29 14:48:58 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Oct 29 14:48:58 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 29 14:48:58 vertex-vnic systemd[1]: quorix-web.service: Consumed 32.462s CPU time, 25.9M memory peak.
+Oct 29 14:48:58 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 29 14:49:02 vertex-vnic waitress-serve[11501]: INFO:waitress:Serving on http://x.x.x.x:8080
+Oct 29 16:48:56 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Oct 29 16:48:56 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Oct 29 16:48:56 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 29 16:48:56 vertex-vnic systemd[1]: quorix-web.service: Consumed 1.534s CPU time, 25.9M memory peak.
+Oct 29 16:48:56 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 29 16:49:02 vertex-vnic waitress-serve[22385]: INFO:waitress:Serving on http://x.x.x.x:8080
+Oct 30 02:16:06 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Oct 30 02:16:06 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Oct 30 02:16:06 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 30 02:16:06 vertex-vnic systemd[1]: quorix-web.service: Consumed 5min 10.951s CPU time, 25.9M memory peak.
+Oct 30 02:16:06 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Oct 30 02:16:10 vertex-vnic waitress-serve[49027]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Nov 01 15:48:02 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 01 15:48:16 vertex-vnic waitress-serve[2232]: INFO:waitress:Serving on http://x.x.x.x:8080
+Nov 01 16:01:35 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Nov 01 16:01:35 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Nov 01 16:01:35 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 01 16:01:35 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 01 16:01:36 vertex-vnic waitress-serve[6586]: INFO:waitress:Serving on http://x.x.x.x:8080
+Nov 01 16:14:39 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Nov 01 16:14:39 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Nov 01 16:14:39 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 01 16:14:39 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 01 16:14:41 vertex-vnic waitress-serve[7576]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Nov 01 16:21:54 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 01 16:22:09 vertex-vnic waitress-serve[2237]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Nov 02 01:51:22 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 02 01:51:36 vertex-vnic waitress-serve[2240]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Nov 02 10:31:25 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 02 10:31:53 vertex-vnic waitress-serve[2229]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Nov 03 01:52:05 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 03 01:52:25 vertex-vnic waitress-serve[2240]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Nov 03 02:08:35 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 03 02:09:09 vertex-vnic waitress-serve[2225]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Nov 03 14:38:34 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 03 14:39:09 vertex-vnic waitress-serve[2225]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Nov 03 16:23:28 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 03 16:23:44 vertex-vnic waitress-serve[2230]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Nov 03 16:30:57 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 03 16:31:10 vertex-vnic waitress-serve[1952]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Nov 04 13:58:29 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 04 13:58:40 vertex-vnic waitress-serve[1940]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Nov 05 13:08:33 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 05 13:08:45 vertex-vnic waitress-serve[1946]: INFO:waitress:Serving on http://x.x.x.x:8080
+Nov 05 15:53:55 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Nov 05 15:53:55 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Nov 05 15:53:55 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 05 15:53:55 vertex-vnic systemd[1]: quorix-web.service: Consumed 8.976s CPU time.
+Nov 05 15:53:55 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 05 15:53:56 vertex-vnic waitress-serve[10485]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Nov 05 16:38:21 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 05 16:38:35 vertex-vnic waitress-serve[1940]: INFO:waitress:Serving on http://x.x.x.x:8080
+Nov 05 16:43:44 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Nov 05 16:43:44 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Nov 05 16:43:44 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 05 16:43:44 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 05 16:43:45 vertex-vnic waitress-serve[2474]: INFO:waitress:Serving on http://x.x.x.x:8080
+Nov 06 06:52:04 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Nov 06 06:52:04 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Nov 06 06:52:04 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 06 06:52:04 vertex-vnic systemd[1]: quorix-web.service: Consumed 8min 46.232s CPU time.
+Nov 06 06:52:04 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 06 06:52:05 vertex-vnic waitress-serve[22393]: INFO:waitress:Serving on http://x.x.x.x:8080
+
+## caddy
+Nov 04 13:58:33 vertex-vnic caddy[1913]: SYSTEMD_EXEC_PID=1913
+Nov 04 13:58:33 vertex-vnic caddy[1913]: {"level":"info","ts":1793800713.9142528,"msg":"maxprocs: Leaving GOMAXPROCS=2: CPU quota undefined"}
+Nov 04 13:58:33 vertex-vnic caddy[1913]: {"level":"info","ts":1793800713.9142866,"msg":"GOMEMLIMIT is updated","GOMEMLIMIT":892661760,"previous":9223372036854775807}
+Nov 04 13:58:33 vertex-vnic caddy[1913]: {"level":"info","ts":1793800713.9142935,"msg":"using config from file","file":"/etc/caddy/Caddyfile"}
+Nov 04 13:58:33 vertex-vnic caddy[1913]: {"level":"info","ts":1793800713.9143,"msg":"adapted config to JSON","adapter":"caddyfile"}
+Nov 04 13:58:33 vertex-vnic caddy[1913]: {"level":"info","ts":1793800713.9961429,"logger":"admin","msg":"admin endpoint started","address":"localhost:2019","enforce_origin":false,"origins":["//localhost:2019","//[::1]:2019","//x.x.x.x:2019"]}
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793800714.0012958,"logger":"tls.cache.maintenance","msg":"started background certificate maintenance","cache":"0x162496156480"}
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793800714.0767934,"logger":"http.auto_https","msg":"server is listening only on the HTTPS port but has no TLS connection policies; adding one to enable TLS","server_name":"srv0","https_port":443}
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793800714.0768402,"logger":"http.auto_https","msg":"enabling automatic HTTP->HTTPS redirects","server_name":"srv0"}
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793800714.077351,"logger":"http","msg":"enabling HTTP/3 listener","addr":":443"}
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793800714.0775287,"msg":"failed to sufficiently increase receive buffer size (was: 224 kiB, wanted: 7168 kiB, got: 448 kiB). See https://github.[secret] for details."}
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793800714.077707,"logger":"http.log","msg":"server running","name":"srv0","protocols":["h1","h2","h3"]}
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"warn","ts":1793800714.077771,"logger":"http","msg":"HTTP/2 skipped because it requires TLS","network":"tcp","addr":":80"}
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"warn","ts":1793800714.0777783,"logger":"http","msg":"HTTP/3 skipped because it requires TLS","network":"tcp","addr":":80"}
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793800714.077783,"logger":"http.log","msg":"server running","name":"remaining_auto_https_redirects","protocols":["h1","h2","h3"]}
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793800714.0777886,"logger":"http","msg":"enabling automatic TLS certificate management","domains":["140-245-254-251.sslip.io"]}
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793800714.080627,"msg":"autosaved config (load with --resume flag)","file":"/var/lib/caddy/.config/caddy/autosave.json"}
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793800714.0813773,"msg":"serving initial configuration"}
+Nov 04 13:58:34 vertex-vnic systemd[1]: Started Caddy.
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793800714.0907257,"logger":"tls","msg":"cleaning storage unit","storage":"FileStorage:/var/lib/caddy/.local/share/caddy"}
+Nov 04 13:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793800714.169324,"logger":"tls","msg":"finished cleaning storage units"}
+Nov 04 14:38:43 vertex-vnic caddy[1913]: {"level":"info","ts":1793803123.258624,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1797035630,"recheck_after":1793822378.2586062,"explanation_url":""}
+Nov 04 14:38:43 vertex-vnic caddy[1913]: {"level":"info","ts":1793803123.3804567,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1793822378.2586062,"explanation_url":""}
+Nov 04 20:08:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793822914.8974473,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796978277,"recheck_after":1793843775.8974278,"explanation_url":""}
+Nov 04 20:08:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793822914.90296,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1793843775.8974278,"explanation_url":""}
+Nov 05 01:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793843914.903457,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796958960,"recheck_after":1793865908.903446,"explanation_url":""}
+Nov 05 01:58:34 vertex-vnic caddy[1913]: {"level":"info","ts":1793843914.906749,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1793865908.903446,"explanation_url":""}
+Nov 05 08:08:35 vertex-vnic caddy[1913]: {"level":"info","ts":1793866115.1555195,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796941480,"recheck_after":1793889205.1554883,"explanation_url":""}
+Nov 05 08:08:35 vertex-vnic caddy[1913]: {"level":"info","ts":1793866115.161694,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1793889205.1554883,"explanation_url":""}
+-- Boot [secret] --
+Nov 05 13:08:32 vertex-vnic systemd[1]: Starting Caddy...
+Nov 05 13:08:38 vertex-vnic caddy[1914]: caddy.HomeDir=/var/lib/caddy
+Nov 05 13:08:38 vertex-vnic caddy[1914]: caddy.AppDataDir=/var/lib/caddy/.local/share/caddy
+Nov 05 13:08:38 vertex-vnic caddy[1914]: caddy.AppConfigDir=/var/lib/caddy/.config/caddy
+Nov 05 13:08:38 vertex-vnic caddy[1914]: caddy.[secret].config/caddy/autosave.json
+Nov 05 13:08:38 vertex-vnic caddy[1914]: caddy.Version=v2.11.4 h1:[secret]
+Nov 05 13:08:38 vertex-vnic caddy[1914]: runtime.GOOS=linux
+Nov 05 13:08:38 vertex-vnic caddy[1914]: runtime.GOARCH=amd64
+Nov 05 13:08:38 vertex-vnic caddy[1914]: runtime.Compiler=gc
+Nov 05 13:08:38 vertex-vnic caddy[1914]: runtime.NumCPU=2
+Nov 05 13:08:38 vertex-vnic caddy[1914]: runtime.GOMAXPROCS=2
+Nov 05 13:08:38 vertex-vnic caddy[1914]: runtime.Version=go1.26.4 (Red Hat 1.26.4-1.el9_8)
+Nov 05 13:08:38 vertex-vnic caddy[1914]: os.Getwd=/
+Nov 05 13:08:38 vertex-vnic caddy[1914]: LANG=en_US.UTF-8
+Nov 05 13:08:38 vertex-vnic caddy[1914]: PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin
+Nov 05 13:08:38 vertex-vnic caddy[1914]: [secret]
+Nov 05 13:08:38 vertex-vnic caddy[1914]: HOME=/var/lib/caddy
+Nov 05 13:08:38 vertex-vnic caddy[1914]: LOGNAME=caddy
+Nov 05 13:08:38 vertex-vnic caddy[1914]: USER=caddy
+Nov 05 13:08:38 vertex-vnic caddy[1914]: [secret]
+Nov 05 13:08:38 vertex-vnic caddy[1914]: JOURNAL_STREAM=9:12191
+Nov 05 13:08:38 vertex-vnic caddy[1914]: SYSTEMD_EXEC_PID=1914
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.5413578,"msg":"maxprocs: Leaving GOMAXPROCS=2: CPU quota undefined"}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.5413928,"msg":"GOMEMLIMIT is updated","GOMEMLIMIT":892661760,"previous":9223372036854775807}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.5414016,"msg":"using config from file","file":"/etc/caddy/Caddyfile"}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.5414102,"msg":"adapted config to JSON","adapter":"caddyfile"}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.629809,"logger":"admin","msg":"admin endpoint started","address":"localhost:2019","enforce_origin":false,"origins":["//localhost:2019","//[::1]:2019","//x.x.x.x:2019"]}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.6301765,"logger":"tls.cache.maintenance","msg":"started background certificate maintenance","cache":"0x12878e9e2700"}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.6303084,"logger":"http.auto_https","msg":"server is listening only on the HTTPS port but has no TLS connection policies; adding one to enable TLS","server_name":"srv0","https_port":443}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.6303344,"logger":"http.auto_https","msg":"enabling automatic HTTP->HTTPS redirects","server_name":"srv0"}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.6344612,"logger":"http","msg":"enabling HTTP/3 listener","addr":":443"}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.636478,"msg":"failed to sufficiently increase receive buffer size (was: 224 kiB, wanted: 7168 kiB, got: 448 kiB). See https://github.[secret] for details."}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.6366441,"logger":"http.log","msg":"server running","name":"srv0","protocols":["h1","h2","h3"]}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"warn","ts":1793884118.6373553,"logger":"http","msg":"HTTP/2 skipped because it requires TLS","network":"tcp","addr":":80"}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"warn","ts":1793884118.6373792,"logger":"http","msg":"HTTP/3 skipped because it requires TLS","network":"tcp","addr":":80"}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.637386,"logger":"http.log","msg":"server running","name":"remaining_auto_https_redirects","protocols":["h1","h2","h3"]}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.6373968,"logger":"http","msg":"enabling automatic TLS certificate management","domains":["140-245-254-251.sslip.io"]}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.639478,"msg":"autosaved config (load with --resume flag)","file":"/var/lib/caddy/.config/caddy/autosave.json"}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.6396425,"msg":"serving initial configuration"}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.642569,"logger":"tls","msg":"storage cleaning happened too recently; skipping for now","storage":"FileStorage:/var/lib/caddy/.local/share/caddy","instance":"[secret]","try_again":1793970518.6425664,"try_again_in":86399.999999207}
+Nov 05 13:08:38 vertex-vnic caddy[1914]: {"level":"info","ts":1793884118.6426623,"logger":"tls","msg":"finished cleaning storage units"}
+Nov 05 13:08:38 vertex-vnic systemd[1]: Started Caddy.
+Nov 05 14:38:39 vertex-vnic caddy[1914]: {"level":"info","ts":1793889519.8262382,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796997761,"recheck_after":1793907689.826202,"explanation_url":""}
+Nov 05 14:38:39 vertex-vnic caddy[1914]: {"level":"info","ts":1793889519.8308706,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1793907689.826202,"explanation_url":""}
+Nov 05 15:53:55 vertex-vnic caddy[1914]: {"level":"error","ts":1793894035.2884648,"logger":"http.log.error","msg":"dial tcp x.x.x.x:8080: connect: connection refused","request":{"remote_ip":"x.x.x.x","remote_port":"56724","client_ip":"x.x.x.x","proto":"HTTP/2.0","method":"GET","host":"140-245-254-251.sslip.io","uri":"/gw/poll?[secret]&wait=15","headers":{"X-Forwarded-For":["ipv6, x.x.x.x"],"Accept":["*/*,image/webp"],"Netlify-Invocation-Source":["client"],"X-Country":["IN"],"Sec-Fetch-Dest":["empty"],"Sec-Ch-Ua-Platform":["\"Windows\""],"Sec-Ch-Ua":["\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\""],"Cache-Control":["no-cache"],"Traceparent":["[secret]"],"Accept-Encoding":["br"],"X-Nf-Request-Id":["01M6P6NASXYZ0PFFYZQQDWAQD5"],"Priority":["u=1, i"],"X-Nf-Client-Connection-Ip":["ipv6"],"User-Agent":["Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/x.x.x.x Safari/537.36"],"Netlify-Agent-Category":["browser"],"X-Forwarded-Proto":["https"],"X-Nf-Account-Tier":["account_type_free"],"Pragma":["no-cache"],"X-Language":["en-US"],"Sec-Fetch-Site":["same-origin"],"X-Nf-Netlify-Proxy":["[secret].[secret].[secret]"],"Accept-Language":["en-US,en;q=0.9"],"X-Nf-Account-Id":["686d3dd69c5364362f074462"],"Sec-Ch-Ua-Mobile":["?0"],"Sec-Fetch-Mode":["cors"],"X-Nf-Site-Id":["[secret]"],"Cdn-Loop":["netlify"],"Referer":["https://quorixgames.netlify.app/play/?source=installed"]},"tls":{"resumed":false,"version":772,"cipher_suite":4865,"proto":"h2","server_name":"140-245-254-251.sslip.io","ech":false}},"duration":1.028257921,"status":502,"err_id":"q4geujx5e","err_trace":"reverseproxy.statusError (reverseproxy.go:1626)"}
+-- Boot [secret] --
+Nov 05 16:38:20 vertex-vnic systemd[1]: Starting Caddy...
+Nov 05 16:38:25 vertex-vnic caddy[1914]: caddy.HomeDir=/var/lib/caddy
+Nov 05 16:38:25 vertex-vnic caddy[1914]: caddy.AppDataDir=/var/lib/caddy/.local/share/caddy
+Nov 05 16:38:25 vertex-vnic caddy[1914]: caddy.AppConfigDir=/var/lib/caddy/.config/caddy
+Nov 05 16:38:25 vertex-vnic caddy[1914]: caddy.[secret].config/caddy/autosave.json
+Nov 05 16:38:25 vertex-vnic caddy[1914]: caddy.Version=v2.11.4 h1:[secret]
+Nov 05 16:38:25 vertex-vnic caddy[1914]: runtime.GOOS=linux
+Nov 05 16:38:25 vertex-vnic caddy[1914]: runtime.GOARCH=amd64
+Nov 05 16:38:25 vertex-vnic caddy[1914]: runtime.Compiler=gc
+Nov 05 16:38:25 vertex-vnic caddy[1914]: runtime.NumCPU=2
+Nov 05 16:38:25 vertex-vnic caddy[1914]: runtime.GOMAXPROCS=2
+Nov 05 16:38:25 vertex-vnic caddy[1914]: runtime.Version=go1.26.4 (Red Hat 1.26.4-1.el9_8)
+Nov 05 16:38:25 vertex-vnic caddy[1914]: os.Getwd=/
+Nov 05 16:38:25 vertex-vnic caddy[1914]: LANG=en_US.UTF-8
+Nov 05 16:38:25 vertex-vnic caddy[1914]: PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin
+Nov 05 16:38:25 vertex-vnic caddy[1914]: [secret]
+Nov 05 16:38:25 vertex-vnic caddy[1914]: HOME=/var/lib/caddy
+Nov 05 16:38:25 vertex-vnic caddy[1914]: LOGNAME=caddy
+Nov 05 16:38:25 vertex-vnic caddy[1914]: USER=caddy
+Nov 05 16:38:25 vertex-vnic caddy[1914]: [secret]
+Nov 05 16:38:25 vertex-vnic caddy[1914]: JOURNAL_STREAM=9:11827
+Nov 05 16:38:25 vertex-vnic caddy[1914]: SYSTEMD_EXEC_PID=1914
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.5789921,"msg":"maxprocs: Leaving GOMAXPROCS=2: CPU quota undefined"}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.5790558,"msg":"GOMEMLIMIT is updated","GOMEMLIMIT":892661760,"previous":9223372036854775807}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.5790637,"msg":"using config from file","file":"/etc/caddy/Caddyfile"}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.5790691,"msg":"adapted config to JSON","adapter":"caddyfile"}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.6689079,"logger":"admin","msg":"admin endpoint started","address":"localhost:2019","enforce_origin":false,"origins":["//localhost:2019","//[::1]:2019","//x.x.x.x:2019"]}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.6691597,"logger":"http.auto_https","msg":"server is listening only on the HTTPS port but has no TLS connection policies; adding one to enable TLS","server_name":"srv0","https_port":443}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.6691895,"logger":"http.auto_https","msg":"enabling automatic HTTP->HTTPS redirects","server_name":"srv0"}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.6758926,"logger":"tls.cache.maintenance","msg":"started background certificate maintenance","cache":"0xabb8c1cf200"}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.689191,"logger":"http","msg":"enabling HTTP/3 listener","addr":":443"}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.689478,"msg":"failed to sufficiently increase receive buffer size (was: 224 kiB, wanted: 7168 kiB, got: 448 kiB). See https://github.[secret] for details."}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.6895852,"logger":"http.log","msg":"server running","name":"srv0","protocols":["h1","h2","h3"]}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"warn","ts":1793896705.6896806,"logger":"http","msg":"HTTP/2 skipped because it requires TLS","network":"tcp","addr":":80"}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"warn","ts":1793896705.6896892,"logger":"http","msg":"HTTP/3 skipped because it requires TLS","network":"tcp","addr":":80"}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.6896946,"logger":"http.log","msg":"server running","name":"remaining_auto_https_redirects","protocols":["h1","h2","h3"]}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.770982,"logger":"http","msg":"enabling automatic TLS certificate management","domains":["140-245-254-251.sslip.io"]}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.7904103,"msg":"autosaved config (load with --resume flag)","file":"/var/lib/caddy/.config/caddy/autosave.json"}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.7905347,"msg":"serving initial configuration"}
+Nov 05 16:38:25 vertex-vnic systemd[1]: Started Caddy.
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.8764856,"logger":"tls","msg":"cleaning storage unit","storage":"FileStorage:/var/lib/caddy/.local/share/caddy"}
+Nov 05 16:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793896705.9697971,"logger":"tls","msg":"finished cleaning storage units"}
+Nov 05 19:48:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793908105.9593885,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796926447,"recheck_after":1793934012.9593573,"explanation_url":""}
+Nov 05 19:48:25 vertex-vnic caddy[1914]: {"level":"info","ts":1793908105.9624043,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1793934012.9593573,"explanation_url":""}
+Nov 06 03:35:39 vertex-vnic caddy[1914]: {"level":"info","ts":1793936139.2616704,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1797028388,"recheck_after":1793961358.2616322,"explanation_url":""}
+Nov 06 03:35:39 vertex-vnic caddy[1914]: {"level":"info","ts":1793936139.267988,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1793961358.2616322,"explanation_url":""}

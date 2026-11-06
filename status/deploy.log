@@ -1,0 +1,60 @@
+[2026-10-20T12:49:13Z] deployed [secret]
+[2026-10-20T13:06:10Z] new commit [secret] on live (running [secret])
+[2026-10-20T13:06:33Z] deployed [secret]
+[2026-10-20T18:45:23Z] new commit [secret] on live (running [secret])
+[2026-10-20T18:46:18Z] restarting the game server
+[2026-10-20T18:46:26Z] deployed [secret]
+[2026-10-21T09:44:23Z] new commit [secret] on live (running [secret])
+[2026-10-21T09:45:35Z] restarting the game server
+[2026-10-21T09:45:43Z] deployed [secret]
+[2026-10-21T10:33:50Z] new commit [secret] on live (running [secret])
+[2026-10-21T10:34:40Z] restarting the game server
+[2026-10-21T10:34:48Z] deployed [secret]
+[2026-10-21T10:38:10Z] client file updated from the client-release branch (v1.1.1)
+[2026-10-21T16:16:19Z] new commit [secret] on live (running [secret])
+[2026-10-21T16:16:48Z] deployed [secret]
+[2026-10-22T12:18:49Z] new commit [secret] on live (running [secret])
+[2026-10-22T12:19:43Z] restarting the game server
+[2026-10-22T12:19:51Z] deployed [secret]
+[2026-10-22T12:23:08Z] client file updated from the client-release branch (v1.1.2)
+[2026-10-23T13:52:44Z] new commit [secret] on live (running [secret])
+[2026-10-23T13:53:48Z] restarting the game server
+[2026-10-23T13:53:56Z] deployed [secret]
+[2026-10-23T19:38:41Z] new commit [secret] on live (running [secret])
+[2026-10-23T19:39:59Z] restarting the game server
+[2026-10-23T19:40:08Z] deployed [secret]
+[2026-10-24T12:04:57Z] new commit [secret] on live (running [secret])
+[2026-10-24T12:07:50Z] restarting the game server
+[2026-10-24T12:07:58Z] deployed [secret]
+[2026-10-24T12:14:35Z] new commit [secret] on live (running [secret])
+[2026-10-24T12:15:32Z] restarting the game server
+[2026-10-24T12:15:41Z] deployed [secret]
+[2026-10-28T15:08:44Z] new commit [secret] on live (running [secret])
+[2026-10-28T15:09:51Z] restarting the game server
+[2026-10-28T15:09:59Z] deployed [secret]
+[2026-10-28T15:52:12Z] new commit [secret] on live (running [secret])
+[2026-10-28T15:53:17Z] restarting the game server
+[2026-10-28T15:53:25Z] deployed [secret]
+[2026-10-29T14:47:56Z] new commit [secret] on live (running [secret])
+[2026-10-29T14:48:57Z] restarting the game server
+[2026-10-29T14:49:05Z] deployed [secret]
+[2026-10-29T16:45:58Z] new commit [secret] on live (running [secret])
+[2026-10-29T16:48:54Z] restarting the game server
+[2026-10-29T16:49:07Z] deployed [secret]
+[2026-10-30T02:14:10Z] new commit [secret] on live (running [secret])
+[2026-10-30T02:16:05Z] restarting the game server
+[2026-10-30T02:16:13Z] deployed [secret]
+[2026-11-01T16:01:05Z] new commit [secret] on live (running [secret])
+[2026-11-01T16:01:38Z] deployed [secret]
+[2026-11-01T16:14:10Z] new commit [secret] on live (running [secret])
+[2026-11-01T16:14:38Z] restarting the game server
+[2026-11-01T16:14:45Z] deployed [secret]
+[2026-11-05T15:14:33Z] new commit [secret] on live (running [secret])
+[2026-11-05T15:15:07Z] FAILED: website tests failed (see status/website-tests.log)
+[2026-11-05T15:53:22Z] new commit [secret] on live (running [secret])
+[2026-11-05T15:53:58Z] deployed [secret]
+[2026-11-05T16:42:45Z] new commit [secret] on live (running [secret])
+[2026-11-05T16:43:47Z] deployed [secret]
+[2026-11-06T06:47:23Z] the machine is busy (load 66.01): waiting for it to calm down before deploying
+[2026-11-06T06:51:13Z] new commit [secret] on live (running [secret])
+[2026-11-06T06:52:07Z] deployed [secret]

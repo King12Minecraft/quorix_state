@@ -1,0 +1,29 @@
+{
+ "made_at": "2026-11-06T07:17:15Z",
+ "kept": [
+  "gamehub_achievements.dat",
+  "gamehub_best_scores.dat",
+  "gamehub_dominion.dat",
+  "gamehub_play_history.dat",
+  "gamehub_playtime.txt",
+  "gamehub_ratings.dat",
+  "gamehub_server_accounts.dat (passwords replaced)",
+  "gamehub_transactions.dat"
+ ],
+ "left_out": [
+  "gamehub_adminlog.txt",
+  "gamehub_bans.dat",
+  "gamehub_blocks.txt",
+  "gamehub_fact_cache_city.dat",
+  "gamehub_fact_cache_company.dat",
+  "gamehub_fact_cache_inventor.dat",
+  "gamehub_friend_requests.dat",
+  "gamehub_friends.dat",
+  "gamehub_gamesuggestions.txt",
+  "gamehub_league.dat",
+  "gamehub_recovery.dat",
+  "gamehub_reserved_names.dat"
+ ],
+ "test_password": "replay-test-1234",
+ "note": "Every account in this snapshot logs in with the test password. Real passwords are not included."
+}
