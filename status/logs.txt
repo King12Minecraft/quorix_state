@@ -1,18 +1,6 @@
-# 2026-11-06T12:47:27Z
+# 2026-11-06T12:50:30Z
 
 ## quorix-server
-Nov 06 07:49:23 vertex-vnic java[1938]: Client connected: /x.x.x.x
-Nov 06 07:49:32 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
-Nov 06 07:51:02 vertex-vnic java[1938]: Client connected: /x.x.x.x
-Nov 06 07:51:02 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
-Nov 06 07:53:03 vertex-vnic java[1938]: Client connected: /x.x.x.x
-Nov 06 07:53:03 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
-Nov 06 07:55:07 vertex-vnic java[1938]: Client connected: /x.x.x.x
-Nov 06 07:55:07 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
-Nov 06 09:53:02 vertex-vnic java[1938]: Client connected: /x.x.x.x
-Nov 06 09:53:02 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
-Nov 06 09:55:03 vertex-vnic java[1938]: Client connected: /x.x.x.x
-Nov 06 09:55:03 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
 Nov 06 09:57:12 vertex-vnic java[1938]: Client connected: /x.x.x.x
 Nov 06 09:57:12 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
 Nov 06 09:59:22 vertex-vnic java[1938]: Client connected: /x.x.x.x
@@ -121,6 +109,18 @@ Nov 06 12:45:23 vertex-vnic java[1938]: Client connected: /x.x.x.x
 Nov 06 12:45:23 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
 Nov 06 12:46:32 vertex-vnic java[1938]: Client connected: /x.x.x.x
 Nov 06 12:46:32 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 12:47:42 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 12:47:42 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 12:48:52 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 12:48:52 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 12:49:22 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 12:49:23 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 12:49:47 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 12:49:49 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 12:50:24 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 12:50:24 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 06 12:50:27 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 06 12:50:27 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Oct 28 15:06:28 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
@@ -231,6 +231,12 @@ Nov 06 07:44:14 vertex-vnic systemd[1]: quorix-web.service: Deactivated successf
 Nov 06 07:44:14 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 06 07:44:14 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 06 07:44:15 vertex-vnic waitress-serve[25620]: INFO:waitress:Serving on http://x.x.x.x:8080
+Nov 06 12:50:24 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Nov 06 12:50:24 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Nov 06 12:50:24 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 06 12:50:24 vertex-vnic systemd[1]: quorix-web.service: Consumed 2min 56.519s CPU time.
+Nov 06 12:50:24 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 06 12:50:25 vertex-vnic waitress-serve[32746]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
 Nov 04 13:58:33 vertex-vnic caddy[1913]: {"level":"info","ts":1793800713.9142935,"msg":"using config from file","file":"/etc/caddy/Caddyfile"}
