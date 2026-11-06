@@ -1,6 +1,6 @@
 deployed: 662a578d2324cef55863dbf273cb136dbd45cf26
-uptime: up 5 hours, 59 minutes
+uptime: up 6 hours, 2 minutes
 /dev/mapper/ocivolume-root   30G  9.5G   20G  33% /
-Mem:             945         331         342           0         408         614
+Mem:             945         348         325           0         408         597
 active active active
 openjdk version "17.0.20.1" 2026-08-18 LTS
