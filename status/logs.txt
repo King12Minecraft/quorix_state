@@ -1,8 +1,6 @@
-# 2026-11-07T05:38:17Z
+# 2026-11-07T05:40:27Z
 
 ## quorix-server
-Nov 07 03:30:52 vertex-vnic java[1935]: Client connected: /x.x.x.x
-Nov 07 03:30:52 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
 Nov 07 03:32:02 vertex-vnic java[1935]: Client connected: /x.x.x.x
 Nov 07 03:32:02 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
 Nov 07 03:34:22 vertex-vnic java[1935]: Client connected: /x.x.x.x
@@ -121,6 +119,8 @@ Nov 07 05:35:02 vertex-vnic java[1935]: Client connected: /x.x.x.x
 Nov 07 05:35:02 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
 Nov 07 05:37:12 vertex-vnic java[1935]: Client connected: /x.x.x.x
 Nov 07 05:37:12 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
+Nov 07 05:39:22 vertex-vnic java[1935]: Client connected: /x.x.x.x
+Nov 07 05:39:22 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Oct 28 15:09:54 vertex-vnic waitress-serve[5459]: INFO:waitress:Serving on http://x.x.x.x:8080
@@ -260,8 +260,6 @@ Nov 07 05:13:04 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderb
 Nov 07 05:13:05 vertex-vnic waitress-serve[11084]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
-Nov 05 16:38:25 vertex-vnic caddy[1914]: LOGNAME=caddy
-Nov 05 16:38:25 vertex-vnic caddy[1914]: USER=caddy
 Nov 05 16:38:25 vertex-vnic caddy[1914]: [secret]
 Nov 05 16:38:25 vertex-vnic caddy[1914]: JOURNAL_STREAM=9:11827
 Nov 05 16:38:25 vertex-vnic caddy[1914]: SYSTEMD_EXEC_PID=1914
@@ -382,3 +380,5 @@ Nov 07 01:38:24 vertex-vnic caddy[1914]: {"level":"info","ts":1794015503.7833984
 Nov 07 01:38:24 vertex-vnic caddy[1914]: {"level":"info","ts":1794015503.7847703,"msg":"serving initial configuration"}
 Nov 07 01:38:24 vertex-vnic caddy[1914]: {"level":"info","ts":1794015503.9721951,"logger":"tls","msg":"cleaning storage unit","storage":"FileStorage:/var/lib/caddy/.local/share/caddy"}
 Nov 07 01:38:24 vertex-vnic caddy[1914]: {"level":"info","ts":1794015503.9765666,"logger":"tls","msg":"finished cleaning storage units"}
+Nov 07 05:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1794029905.0318878,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796949247,"recheck_after":1794048558.031871,"explanation_url":""}
+Nov 07 05:38:25 vertex-vnic caddy[1914]: {"level":"info","ts":1794029905.0358412,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1794048558.031871,"explanation_url":""}
