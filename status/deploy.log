@@ -1,7 +1,3 @@
-[2026-10-21T10:38:10Z] client file updated from the client-release branch (v1.1.1)
-[2026-10-21T16:16:19Z] new commit [secret] on live (running [secret])
-[2026-10-21T16:16:48Z] deployed [secret]
-[2026-10-22T12:18:49Z] new commit [secret] on live (running [secret])
 [2026-10-22T12:19:43Z] restarting the game server
 [2026-10-22T12:19:51Z] deployed [secret]
 [2026-10-22T12:23:08Z] client file updated from the client-release branch (v1.1.2)
@@ -58,3 +54,7 @@
 [2026-11-06T13:39:47Z] deployed [secret]
 [2026-11-07T05:12:16Z] new commit [secret] on live (running [secret])
 [2026-11-07T05:13:07Z] deployed [secret]
+[2026-11-07T11:45:45Z] the machine is busy (load 3.82): waiting for it to calm down before deploying
+[2026-11-07T11:46:45Z] new commit [secret] on live (running [secret])
+[2026-11-07T11:47:36Z] restarting the game server
+[2026-11-07T11:47:48Z] deployed [secret]
