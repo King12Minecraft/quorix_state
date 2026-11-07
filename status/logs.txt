@@ -1,11 +1,6 @@
-# 2026-11-07T03:48:27Z
+# 2026-11-07T03:50:37Z
 
 ## quorix-server
-Nov 07 00:09:46 vertex-vnic java[1938]: Client connected: /x.x.x.x
-Nov 07 00:09:47 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
-Nov 07 00:11:47 vertex-vnic java[1938]: Client connected: /x.x.x.x
-Nov 07 00:11:47 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
--- Boot [secret] --
 Nov 07 01:38:19 vertex-vnic systemd[1]: Started Quorix game server.
 Nov 07 01:38:35 vertex-vnic java[1935]: Quorix server listening on port 7777
 Nov 07 01:38:36 vertex-vnic java[1935]: Self-update is off (QUORIX_AUTO_UPDATE=off).
@@ -122,6 +117,10 @@ Nov 07 03:45:12 vertex-vnic java[1935]: Client connected: /x.x.x.x
 Nov 07 03:45:12 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
 Nov 07 03:47:22 vertex-vnic java[1935]: Client connected: /x.x.x.x
 Nov 07 03:47:22 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
+Nov 07 03:48:55 vertex-vnic java[1935]: Client connected: /x.x.x.x
+Nov 07 03:48:55 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
+Nov 07 03:49:32 vertex-vnic java[1935]: Client connected: /x.x.x.x
+Nov 07 03:49:32 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Oct 28 15:06:28 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
