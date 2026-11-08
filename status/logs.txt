@@ -1,16 +1,6 @@
-# 2026-11-08T15:24:06Z
+# 2026-11-08T18:22:48Z
 
 ## quorix-server
-Nov 08 13:56:53 vertex-vnic java[2352]: Client connected: /x.x.x.x
-Nov 08 13:56:53 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
-Nov 08 13:59:03 vertex-vnic java[2352]: Client connected: /x.x.x.x
-Nov 08 13:59:03 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
-Nov 08 14:01:13 vertex-vnic java[2352]: Client connected: /x.x.x.x
-Nov 08 14:01:13 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
-Nov 08 14:03:23 vertex-vnic java[2352]: Client connected: /x.x.x.x
-Nov 08 14:03:23 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
-Nov 08 14:05:33 vertex-vnic java[2352]: Client connected: /x.x.x.x
-Nov 08 14:05:33 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
 Nov 08 14:06:33 vertex-vnic java[2352]: Client connected: /x.x.x.x
 Nov 08 14:06:33 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
 Nov 08 14:07:43 vertex-vnic java[2352]: Client connected: /x.x.x.x
@@ -121,17 +111,18 @@ Nov 08 15:23:05 vertex-vnic java[2352]: Client connected: /x.x.x.x
 Nov 08 15:23:06 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
 Nov 08 15:24:05 vertex-vnic java[2352]: Client connected: /x.x.x.x
 Nov 08 15:24:05 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
+Nov 08 15:25:06 vertex-vnic java[2352]: Client connected: /x.x.x.x
+Nov 08 15:25:06 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
+Nov 08 18:16:48 vertex-vnic java[2352]: Client connected: /x.x.x.x
+Nov 08 18:16:48 vertex-vnic java[2352]: Client connected: /x.x.x.x
+Nov 08 18:16:50 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
+Nov 08 18:16:51 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
+Nov 08 18:22:41 vertex-vnic java[2352]: Client connected: /x.x.x.x
+Nov 08 18:22:41 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
+Nov 08 18:22:44 vertex-vnic java[2352]: Client connected: /x.x.x.x
+Nov 08 18:22:44 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
 
 ## quorix-web
-Nov 01 16:14:41 vertex-vnic waitress-serve[7576]: INFO:waitress:Serving on http://x.x.x.x:8080
--- Boot [secret] --
-Nov 01 16:21:54 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
-Nov 01 16:22:09 vertex-vnic waitress-serve[2237]: INFO:waitress:Serving on http://x.x.x.x:8080
--- Boot [secret] --
-Nov 02 01:51:22 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
-Nov 02 01:51:36 vertex-vnic waitress-serve[2240]: INFO:waitress:Serving on http://x.x.x.x:8080
--- Boot [secret] --
-Nov 02 10:31:25 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 02 10:31:53 vertex-vnic waitress-serve[2229]: INFO:waitress:Serving on http://x.x.x.x:8080
 -- Boot [secret] --
 Nov 03 01:52:05 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
@@ -257,6 +248,12 @@ Nov 08 14:43:54 vertex-vnic systemd[1]: quorix-web.service: Deactivated successf
 Nov 08 14:43:54 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 08 14:43:54 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 08 14:43:55 vertex-vnic waitress-serve[52189]: INFO:waitress:Serving on http://x.x.x.x:8080
+Nov 08 18:22:41 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Nov 08 18:22:41 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Nov 08 18:22:41 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 08 18:22:41 vertex-vnic systemd[1]: quorix-web.service: Consumed 1min 37.189s CPU time.
+Nov 08 18:22:41 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 08 18:22:42 vertex-vnic waitress-serve[55140]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
 Nov 06 14:40:51 vertex-vnic caddy[1914]: {"level":"info","ts":1793976051.5060518,"msg":"using config from file","file":"/etc/caddy/Caddyfile"}
