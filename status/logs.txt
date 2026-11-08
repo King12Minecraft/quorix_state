@@ -1,9 +1,6 @@
-# 2026-11-08T08:52:28Z
+# 2026-11-08T08:54:38Z
 
 ## quorix-server
-Nov 08 07:09:13 vertex-vnic java[2352]: Client connected: /x.x.x.x
-Nov 08 07:09:13 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
-Nov 08 07:10:17 vertex-vnic java[2352]: Client connected: /x.x.x.x
 Nov 08 07:10:17 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
 Nov 08 07:11:19 vertex-vnic java[2352]: Client connected: /x.x.x.x
 Nov 08 07:11:19 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
@@ -121,6 +118,9 @@ Nov 08 08:49:13 vertex-vnic java[2352]: Client connected: /x.x.x.x
 Nov 08 08:49:13 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
 Nov 08 08:51:23 vertex-vnic java[2352]: Client connected: /x.x.x.x
 Nov 08 08:51:23 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
+Nov 08 08:52:47 vertex-vnic java[2352]: Backup written: quorix-backup-20261108-085247.zip
+Nov 08 08:53:33 vertex-vnic java[2352]: Client connected: /x.x.x.x
+Nov 08 08:53:33 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Oct 29 16:48:56 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
