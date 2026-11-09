@@ -1,8 +1,6 @@
-# 2026-11-09T19:26:45Z
+# 2026-11-09T19:28:55Z
 
 ## quorix-server
-Nov 09 16:21:25 vertex-vnic systemd[1]: Started Quorix game server.
-Nov 09 16:21:46 vertex-vnic java[1938]: Quorix server listening on port 7777
 Nov 09 16:21:47 vertex-vnic java[1938]: Self-update is off (QUORIX_AUTO_UPDATE=off).
 Nov 09 16:21:47 vertex-vnic java[1938]: Web API listening on x.x.x.x:7790
 Nov 09 16:21:47 vertex-vnic java[1938]: Web gateway listening on x.x.x.x:7791
@@ -121,6 +119,8 @@ Nov 09 19:23:29 vertex-vnic java[1938]: Client connected: /x.x.x.x
 Nov 09 19:23:29 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
 Nov 09 19:25:39 vertex-vnic java[1938]: Client connected: /x.x.x.x
 Nov 09 19:25:39 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 09 19:27:49 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 09 19:27:49 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 05 15:53:55 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
