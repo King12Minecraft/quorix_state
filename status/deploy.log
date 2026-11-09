@@ -1,6 +1,3 @@
-[2026-10-28T15:52:12Z] new commit [secret] on live (running [secret])
-[2026-10-28T15:53:17Z] restarting the game server
-[2026-10-28T15:53:25Z] deployed [secret]
 [2026-10-29T14:47:56Z] new commit [secret] on live (running [secret])
 [2026-10-29T14:48:57Z] restarting the game server
 [2026-10-29T14:49:05Z] deployed [secret]
@@ -58,3 +55,6 @@
 [2026-11-08T18:16:58Z] the machine is busy (load 63.92): waiting for it to calm down before deploying
 [2026-11-08T18:20:48Z] new commit [secret] on live (running [secret])
 [2026-11-08T18:22:44Z] deployed [secret]
+[2026-11-09T11:41:47Z] the machine is busy (load 3.08): waiting for it to calm down before deploying
+[2026-11-09T11:42:47Z] new commit [secret] on live (running [secret])
+[2026-11-09T11:44:51Z] deployed [secret]
