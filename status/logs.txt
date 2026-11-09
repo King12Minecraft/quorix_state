@@ -1,8 +1,6 @@
-# 2026-11-09T05:10:25Z
+# 2026-11-09T05:12:34Z
 
 ## quorix-server
-Nov 09 03:25:20 vertex-vnic java[1941]: Self-update is off (QUORIX_AUTO_UPDATE=off).
-Nov 09 03:25:20 vertex-vnic java[1941]: Web API listening on x.x.x.x:7790
 Nov 09 03:25:20 vertex-vnic java[1941]: Web gateway listening on x.x.x.x:7791
 Nov 09 03:25:20 vertex-vnic java[1941]: Backups on: every 24 h into ./backups, keeping 3.
 Nov 09 03:28:08 vertex-vnic java[1941]: Client connected: /x.x.x.x
@@ -121,6 +119,8 @@ Nov 09 05:07:10 vertex-vnic java[1941]: Client connected: /x.x.x.x
 Nov 09 05:07:10 vertex-vnic java[1941]: Client disconnected: /x.x.x.x
 Nov 09 05:09:20 vertex-vnic java[1941]: Client connected: /x.x.x.x
 Nov 09 05:09:20 vertex-vnic java[1941]: Client disconnected: /x.x.x.x
+Nov 09 05:11:30 vertex-vnic java[1941]: Client connected: /x.x.x.x
+Nov 09 05:11:30 vertex-vnic java[1941]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 03 01:52:25 vertex-vnic waitress-serve[2240]: INFO:waitress:Serving on http://x.x.x.x:8080
