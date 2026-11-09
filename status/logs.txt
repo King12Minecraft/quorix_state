@@ -1,8 +1,6 @@
-# 2026-11-09T01:44:38Z
+# 2026-11-09T01:46:38Z
 
 ## quorix-server
-Nov 08 19:39:23 vertex-vnic java[2352]: Client connected: /x.x.x.x
-Nov 08 19:39:23 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
 Nov 08 19:41:33 vertex-vnic java[2352]: Client connected: /x.x.x.x
 Nov 08 19:41:33 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
 Nov 08 19:43:43 vertex-vnic java[2352]: Client connected: /x.x.x.x
@@ -121,6 +119,8 @@ Nov 09 01:41:23 vertex-vnic java[2352]: Client connected: /x.x.x.x
 Nov 09 01:41:23 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
 Nov 09 01:43:33 vertex-vnic java[2352]: Client connected: /x.x.x.x
 Nov 09 01:43:33 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
+Nov 09 01:45:43 vertex-vnic java[2352]: Client connected: /x.x.x.x
+Nov 09 01:45:43 vertex-vnic java[2352]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 02 10:31:53 vertex-vnic waitress-serve[2229]: INFO:waitress:Serving on http://x.x.x.x:8080
@@ -256,8 +256,6 @@ Nov 08 18:22:41 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderb
 Nov 08 18:22:42 vertex-vnic waitress-serve[55140]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
-Nov 06 14:40:51 vertex-vnic caddy[1914]: {"level":"info","ts":1793976051.510433,"logger":"admin","msg":"admin endpoint started","address":"localhost:2019","enforce_origin":false,"origins":["//localhost:2019","//[::1]:2019","//x.x.x.x:2019"]}
-Nov 06 14:40:51 vertex-vnic caddy[1914]: {"level":"info","ts":1793976051.510641,"logger":"http.auto_https","msg":"server is listening only on the HTTPS port but has no TLS connection policies; adding one to enable TLS","server_name":"srv0","https_port":443}
 Nov 06 14:40:51 vertex-vnic caddy[1914]: {"level":"info","ts":1793976051.5106628,"logger":"http.auto_https","msg":"enabling automatic HTTP->HTTPS redirects","server_name":"srv0"}
 Nov 06 14:40:51 vertex-vnic caddy[1914]: {"level":"info","ts":1793976051.511483,"logger":"tls.cache.maintenance","msg":"started background certificate maintenance","cache":"0x199b35cf8a80"}
 Nov 06 14:40:51 vertex-vnic caddy[1914]: {"level":"info","ts":1793976051.5119119,"logger":"http","msg":"enabling HTTP/3 listener","addr":":443"}
@@ -378,3 +376,5 @@ Nov 08 11:45:27 vertex-vnic caddy[1917]: {"level":"info","ts":1794138327.494683,
 Nov 08 14:37:24 vertex-vnic caddy[1917]: {"level":"error","ts":1794148644.5841296,"logger":"http.log.error","msg":"dial tcp x.x.x.x:8080: connect: connection refused","request":{"remote_ip":"x.x.x.x","remote_port":"42230","client_ip":"x.x.x.x","proto":"HTTP/2.0","method":"GET","host":"140-245-254-251.sslip.io","uri":"/gw/poll?[secret]&wait=15","headers":{"X-Nf-Account-Tier":["account_type_free"],"Sec-Fetch-Dest":["empty"],"X-Nf-Netlify-Proxy":["[secret].[secret].[secret]"],"X-Nf-Account-Id":["686d3dd69c5364362f074462"],"Netlify-Invocation-Source":["client"],"Cache-Control":["no-cache"],"Referer":["https://quorixgames.netlify.app/play/?source=installed"],"X-Forwarded-Proto":["https"],"Accept-Encoding":["br"],"Sec-Fetch-Mode":["cors"],"Sec-Fetch-Site":["same-origin"],"Netlify-Agent-Category":["browser"],"X-Language":["en-IN"],"Cdn-Loop":["netlify"],"User-Agent":["Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0.1 Mobile/15E148 Safari/604.1"],"X-Nf-Client-Connection-Ip":["ipv6"],"X-Nf-Site-Id":["[secret]"],"X-Country":["IN"],"Pragma":["no-cache"],"X-Nf-Request-Id":["01M6XSF3KTP5SZ8RHA5D6P5XSS"],"Priority":["u=3, i"],"Traceparent":["[secret]"],"X-Forwarded-For":["ipv6, x.x.x.x"],"Accept-Language":["en-IN,en;q=0.9"],"Accept":["*/*,image/webp"]},"tls":{"resumed":false,"version":772,"cipher_suite":4865,"proto":"h2","server_name":"140-245-254-251.sslip.io","ech":false}},"duration":10.324151584,"status":502,"err_id":"craz3hr7u","err_trace":"reverseproxy.statusError (reverseproxy.go:1626)"}
 Nov 08 18:35:28 vertex-vnic caddy[1917]: {"level":"info","ts":1794162928.6833377,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796930155,"recheck_after":1794188613.683283,"explanation_url":""}
 Nov 08 18:35:28 vertex-vnic caddy[1917]: {"level":"info","ts":1794162928.6895866,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1794188613.683283,"explanation_url":""}
+Nov 09 01:45:28 vertex-vnic caddy[1917]: {"level":"info","ts":1794188728.3761663,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796950575,"recheck_after":1794209830.3761404,"explanation_url":""}
+Nov 09 01:45:28 vertex-vnic caddy[1917]: {"level":"info","ts":1794188728.3799012,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1794209830.3761404,"explanation_url":""}
