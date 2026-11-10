@@ -1,11 +1,6 @@
-# 2026-11-10T14:56:24Z
+# 2026-11-10T14:58:32Z
 
 ## quorix-server
-Nov 10 13:19:26 vertex-vnic java[1938]: Self-update is off (QUORIX_AUTO_UPDATE=off).
-Nov 10 13:19:27 vertex-vnic java[1938]: Web API listening on x.x.x.x:7790
-Nov 10 13:19:27 vertex-vnic java[1938]: Web gateway listening on x.x.x.x:7791
-Nov 10 13:19:27 vertex-vnic java[1938]: Backups on: every 24 h into ./backups, keeping 3.
-Nov 10 13:22:17 vertex-vnic java[1938]: Client connected: /x.x.x.x
 Nov 10 13:22:18 vertex-vnic java[1938]: Client connected: /x.x.x.x
 Nov 10 13:22:28 vertex-vnic java[1938]: Client connected: /x.x.x.x
 Nov 10 13:22:28 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
@@ -121,6 +116,11 @@ Nov 10 14:53:18 vertex-vnic java[1938]: Client connected: /x.x.x.x
 Nov 10 14:53:18 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
 Nov 10 14:55:28 vertex-vnic java[1938]: Client connected: /x.x.x.x
 Nov 10 14:55:28 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 10 14:56:28 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 10 14:56:28 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 10 14:57:33 vertex-vnic java[1938]: Client connected: /x.x.x.x
+Nov 10 14:57:33 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
+Nov 10 14:58:31 vertex-vnic java[1938]: Client connected: /x.x.x.x
 
 ## quorix-web
 Nov 05 16:43:44 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
