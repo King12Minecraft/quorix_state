@@ -1,10 +1,6 @@
-# 2026-11-10T18:56:23Z
+# 2026-11-10T18:58:33Z
 
 ## quorix-server
-Nov 10 17:37:15 vertex-vnic systemd[1]: quorix-server.service: Main process exited, code=exited, status=143/n/a
-Nov 10 17:37:15 vertex-vnic systemd[1]: quorix-server.service: Failed with result 'exit-code'.
-Nov 10 17:37:15 vertex-vnic systemd[1]: Stopped Quorix game server.
-Nov 10 17:37:15 vertex-vnic systemd[1]: quorix-server.service: Consumed 5min 52.590s CPU time, 134.7M memory peak.
 Nov 10 17:37:15 vertex-vnic systemd[1]: Started Quorix game server.
 Nov 10 17:37:18 vertex-vnic java[12421]: Quorix server listening on port 7777
 Nov 10 17:37:18 vertex-vnic java[12421]: Self-update is off (QUORIX_AUTO_UPDATE=off).
@@ -121,6 +117,10 @@ Nov 10 18:53:08 vertex-vnic java[12421]: Client connected: /x.x.x.x
 Nov 10 18:53:08 vertex-vnic java[12421]: Client disconnected: /x.x.x.x
 Nov 10 18:55:10 vertex-vnic java[12421]: Client connected: /x.x.x.x
 Nov 10 18:55:10 vertex-vnic java[12421]: Client disconnected: /x.x.x.x
+Nov 10 18:57:28 vertex-vnic java[12421]: Client connected: /x.x.x.x
+Nov 10 18:57:28 vertex-vnic java[12421]: Client disconnected: /x.x.x.x
+Nov 10 18:58:04 vertex-vnic java[12421]: Client connected: /x.x.x.x
+Nov 10 18:58:04 vertex-vnic java[12421]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 06 06:52:04 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
