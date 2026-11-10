@@ -1,8 +1,6 @@
-# 2026-11-10T18:52:03Z
+# 2026-11-10T18:54:13Z
 
 ## quorix-server
-Nov 10 16:22:52 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
-Nov 10 16:24:52 vertex-vnic java[1938]: Client connected: /x.x.x.x
 Nov 10 16:24:52 vertex-vnic java[1938]: Client disconnected: /x.x.x.x
 Nov 10 17:37:13 vertex-vnic systemd[1]: Stopping Quorix game server...
 Nov 10 17:37:15 vertex-vnic systemd[1]: quorix-server.service: Main process exited, code=exited, status=143/n/a
@@ -121,6 +119,8 @@ Nov 10 18:48:48 vertex-vnic java[12421]: Client connected: /x.x.x.x
 Nov 10 18:48:48 vertex-vnic java[12421]: Client disconnected: /x.x.x.x
 Nov 10 18:50:58 vertex-vnic java[12421]: Client connected: /x.x.x.x
 Nov 10 18:50:58 vertex-vnic java[12421]: Client disconnected: /x.x.x.x
+Nov 10 18:53:08 vertex-vnic java[12421]: Client connected: /x.x.x.x
+Nov 10 18:53:08 vertex-vnic java[12421]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 06 06:52:04 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
