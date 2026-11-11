@@ -1,10 +1,6 @@
-# 2026-11-11T18:18:42Z
+# 2026-11-11T18:20:52Z
 
 ## quorix-server
-Nov 11 16:23:18 vertex-vnic java[1943]: Client connected: /x.x.x.x
-Nov 11 16:23:18 vertex-vnic java[1943]: Client connected: /x.x.x.x
-Nov 11 16:23:47 vertex-vnic java[1943]: Client connected: /x.x.x.x
-Nov 11 16:23:47 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
 Nov 11 16:24:07 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
 Nov 11 16:24:08 vertex-vnic java[1943]: Client connected: /x.x.x.x
 Nov 11 16:24:11 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
@@ -121,6 +117,10 @@ Nov 11 18:16:56 vertex-vnic java[1943]: Client connected: /x.x.x.x
 Nov 11 18:16:56 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
 Nov 11 18:18:06 vertex-vnic java[1943]: Client connected: /x.x.x.x
 Nov 11 18:18:06 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
+Nov 11 18:19:16 vertex-vnic java[1943]: Client connected: /x.x.x.x
+Nov 11 18:19:16 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
+Nov 11 18:20:26 vertex-vnic java[1943]: Client connected: /x.x.x.x
+Nov 11 18:20:26 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 06 07:44:14 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
@@ -253,8 +253,6 @@ Nov 11 02:13:32 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderb
 Nov 11 02:13:32 vertex-vnic waitress-serve[3498]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
-Nov 09 16:21:31 vertex-vnic caddy[1915]: SYSTEMD_EXEC_PID=1915
-Nov 09 16:21:31 vertex-vnic caddy[1915]: {"level":"info","ts":1794241291.3674874,"msg":"maxprocs: Leaving GOMAXPROCS=2: CPU quota undefined"}
 Nov 09 16:21:31 vertex-vnic caddy[1915]: {"level":"info","ts":1794241291.367513,"msg":"GOMEMLIMIT is updated","GOMEMLIMIT":892661760,"previous":9223372036854775807}
 Nov 09 16:21:31 vertex-vnic caddy[1915]: {"level":"info","ts":1794241291.3675184,"msg":"using config from file","file":"/etc/caddy/Caddyfile"}
 Nov 09 16:21:31 vertex-vnic caddy[1915]: {"level":"info","ts":1794241291.3675237,"msg":"adapted config to JSON","adapter":"caddyfile"}
@@ -375,3 +373,5 @@ Nov 11 06:05:43 vertex-vnic caddy[1917]: {"level":"info","ts":1794377143.271491,
 Nov 11 06:05:43 vertex-vnic caddy[1917]: {"level":"info","ts":1794377143.2894344,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1794395438.2714305,"explanation_url":""}
 Nov 11 11:20:16 vertex-vnic caddy[1917]: {"level":"info","ts":1794396016.0557077,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796963474,"recheck_after":1794421073.0556884,"explanation_url":""}
 Nov 11 11:20:16 vertex-vnic caddy[1917]: {"level":"info","ts":1794396016.0603213,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1794421073.0556884,"explanation_url":""}
+Nov 11 18:20:16 vertex-vnic caddy[1917]: {"level":"info","ts":1794421216.2734683,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796987436,"recheck_after":1794445363.273433,"explanation_url":""}
+Nov 11 18:20:16 vertex-vnic caddy[1917]: {"level":"info","ts":1794421216.2802038,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1794445363.273433,"explanation_url":""}
