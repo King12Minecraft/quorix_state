@@ -1,15 +1,6 @@
-# 2026-11-12T10:16:32Z
+# 2026-11-12T10:20:39Z
 
 ## quorix-server
-Nov 12 07:11:48 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
-Nov 12 07:12:32 vertex-vnic java[1943]: Client connected: /x.x.x.x
-Nov 12 07:12:38 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
-Nov 12 07:13:33 vertex-vnic java[1943]: Client connected: /x.x.x.x
-Nov 12 07:13:33 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
-Nov 12 07:15:40 vertex-vnic java[1943]: Client connected: /x.x.x.x
-Nov 12 07:16:50 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
-Nov 12 08:13:12 vertex-vnic java[1943]: Client connected: /x.x.x.x
-Nov 12 08:22:19 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
 Nov 12 08:26:55 vertex-vnic java[1943]: Client connected: /x.x.x.x
 Nov 12 08:57:30 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
 Nov 12 08:58:37 vertex-vnic java[1943]: Client connected: /x.x.x.x
@@ -121,14 +112,17 @@ Nov 12 10:13:16 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
 Nov 12 10:15:26 vertex-vnic java[1943]: Client connected: /x.x.x.x
 Nov 12 10:15:26 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
 Nov 12 10:15:30 vertex-vnic java[1943]: Client connected: /x.x.x.x
+Nov 12 10:16:45 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
+Nov 12 10:17:36 vertex-vnic java[1943]: Client connected: /x.x.x.x
+Nov 12 10:17:36 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
+Nov 12 10:18:38 vertex-vnic java[1943]: Client connected: /x.x.x.x
+Nov 12 10:18:54 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
+Nov 12 10:20:33 vertex-vnic java[1943]: Client connected: /x.x.x.x
+Nov 12 10:20:33 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
+Nov 12 10:20:36 vertex-vnic java[1943]: Client connected: /x.x.x.x
+Nov 12 10:20:36 vertex-vnic java[1943]: Client disconnected: /x.x.x.x
 
 ## quorix-web
-Nov 06 07:44:14 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
-Nov 06 07:44:15 vertex-vnic waitress-serve[25620]: INFO:waitress:Serving on http://x.x.x.x:8080
-Nov 06 12:50:24 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
-Nov 06 12:50:24 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
-Nov 06 12:50:24 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
-Nov 06 12:50:24 vertex-vnic systemd[1]: quorix-web.service: Consumed 2min 56.519s CPU time.
 Nov 06 12:50:24 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 06 12:50:25 vertex-vnic waitress-serve[32746]: INFO:waitress:Serving on http://x.x.x.x:8080
 Nov 06 13:13:53 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
@@ -251,6 +245,12 @@ Nov 11 02:13:32 vertex-vnic systemd[1]: quorix-web.service: Deactivated successf
 Nov 11 02:13:32 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 11 02:13:32 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 11 02:13:32 vertex-vnic waitress-serve[3498]: INFO:waitress:Serving on http://x.x.x.x:8080
+Nov 12 10:20:33 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Nov 12 10:20:33 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Nov 12 10:20:33 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 12 10:20:33 vertex-vnic systemd[1]: quorix-web.service: Consumed 9min 3.845s CPU time.
+Nov 12 10:20:33 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 12 10:20:34 vertex-vnic waitress-serve[61099]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
 Nov 09 16:21:31 vertex-vnic caddy[1915]: {"level":"info","ts":1794241291.4834416,"logger":"http","msg":"enabling HTTP/3 listener","addr":":443"}

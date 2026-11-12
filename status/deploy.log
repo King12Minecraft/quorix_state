@@ -1,5 +1,3 @@
-[2026-11-01T16:14:10Z] new commit [secret] on live (running [secret])
-[2026-11-01T16:14:38Z] restarting the game server
 [2026-11-01T16:14:45Z] deployed [secret]
 [2026-11-05T15:14:33Z] new commit [secret] on live (running [secret])
 [2026-11-05T15:15:07Z] FAILED: website tests failed (see status/website-tests.log)
@@ -58,3 +56,5 @@
 [2026-11-10T17:37:27Z] deployed [secret]
 [2026-11-11T02:11:40Z] new commit [secret] on live (running [secret])
 [2026-11-11T02:13:35Z] deployed [secret]
+[2026-11-12T10:18:40Z] new commit [secret] on live (running [secret])
+[2026-11-12T10:20:36Z] deployed [secret]
