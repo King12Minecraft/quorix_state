@@ -1,1 +1,1 @@
-{"state":"ok","commit":"34be23665f364c9733736c903b37c572a51343a0","previous":"e4a744299d020c0b470a72d81d3b27f807cc010c","message":"deployed; server untouched ","at":"2026-11-12T11:29:15Z"}
+{"state":"fetch-failed","commit":"","previous":"none","message":"Connection to github.com closed by remote host. ","at":"2026-11-12T13:36:07Z"}
