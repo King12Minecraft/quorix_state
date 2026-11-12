@@ -1,6 +1,3 @@
-[2026-11-05T15:53:22Z] new commit [secret] on live (running [secret])
-[2026-11-05T15:53:58Z] deployed [secret]
-[2026-11-05T16:42:45Z] new commit [secret] on live (running [secret])
 [2026-11-05T16:43:47Z] deployed [secret]
 [2026-11-06T06:47:23Z] the machine is busy (load 66.01): waiting for it to calm down before deploying
 [2026-11-06T06:51:13Z] new commit [secret] on live (running [secret])
@@ -58,3 +55,6 @@
 [2026-11-12T11:26:00Z] the machine is busy (load 4.12): waiting for it to calm down before deploying
 [2026-11-12T11:27:11Z] new commit [secret] on live (running [secret])
 [2026-11-12T11:29:15Z] deployed [secret]
+[2026-11-12T15:47:22Z] the machine is busy (load 45.81): waiting for it to calm down before deploying
+[2026-11-12T15:50:52Z] new commit [secret] on live (running [secret])
+[2026-11-12T15:52:54Z] deployed [secret]
