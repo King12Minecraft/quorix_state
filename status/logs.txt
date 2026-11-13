@@ -1,10 +1,6 @@
-# 2026-11-12T22:27:26Z
+# 2026-11-13T01:37:12Z
 
 ## quorix-server
-Nov 12 20:33:21 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 12 20:33:21 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
-Nov 12 20:35:31 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 12 20:35:31 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 Nov 12 20:37:41 vertex-vnic java[1937]: Client connected: /x.x.x.x
 Nov 12 20:37:41 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 Nov 12 20:39:51 vertex-vnic java[1937]: Client connected: /x.x.x.x
@@ -121,6 +117,10 @@ Nov 12 22:26:16 vertex-vnic java[1937]: Client connected: /x.x.x.x
 Nov 12 22:26:17 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 Nov 12 22:26:28 vertex-vnic java[1937]: Client connected: /x.x.x.x
 Nov 12 22:26:28 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 13 01:37:03 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 13 01:37:03 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 13 01:37:05 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 13 01:37:05 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 06 14:41:00 vertex-vnic waitress-serve[1939]: INFO:waitress:Serving on http://x.x.x.x:8080
@@ -253,8 +253,6 @@ Nov 12 16:50:19 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderb
 Nov 12 16:50:28 vertex-vnic waitress-serve[17715]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
-Nov 10 13:19:12 vertex-vnic caddy[1916]: {"level":"info","ts":1794316752.1926272,"msg":"failed to sufficiently increase receive buffer size (was: 224 kiB, wanted: 7168 kiB, got: 448 kiB). See https://github.[secret] for details."}
-Nov 10 13:19:12 vertex-vnic caddy[1916]: {"level":"info","ts":1794316752.1928136,"logger":"http.log","msg":"server running","name":"srv0","protocols":["h1","h2","h3"]}
 Nov 10 13:19:12 vertex-vnic caddy[1916]: {"level":"warn","ts":1794316752.1929073,"logger":"http","msg":"HTTP/2 skipped because it requires TLS","network":"tcp","addr":":80"}
 Nov 10 13:19:12 vertex-vnic caddy[1916]: {"level":"warn","ts":1794316752.1929867,"logger":"http","msg":"HTTP/3 skipped because it requires TLS","network":"tcp","addr":":80"}
 Nov 10 13:19:12 vertex-vnic caddy[1916]: {"level":"info","ts":1794316752.1929958,"logger":"http.log","msg":"server running","name":"remaining_auto_https_redirects","protocols":["h1","h2","h3"]}
@@ -375,3 +373,5 @@ Nov 12 15:52:51 vertex-vnic caddy[1914]: {"level":"error","ts":1794498771.332432
 Nov 12 16:50:28 vertex-vnic caddy[1914]: {"level":"error","ts":1794502228.0749378,"logger":"http.log.error","msg":"dial tcp x.x.x.x:8080: connect: connection refused","request":{"remote_ip":"x.x.x.x","remote_port":"53494","client_ip":"x.x.x.x","proto":"HTTP/1.1","method":"GET","host":"140-245-254-251.sslip.io","uri":"/","headers":{"Connection":["close"],"User-Agent":["Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/x.x.x.x Safari/537.36"],"Accept-Encoding":["identity"],"Accept":["*/*"]},"tls":{"resumed":false,"version":772,"cipher_suite":4865,"proto":"","server_name":"140-245-254-251.sslip.io","ech":false}},"duration":0.399013554,"status":502,"err_id":"94ix4sj2p","err_trace":"reverseproxy.statusError (reverseproxy.go:1626)"}
 Nov 12 18:25:51 vertex-vnic caddy[1914]: {"level":"info","ts":1794507951.354375,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796947095,"recheck_after":1794526739.3541687,"explanation_url":""}
 Nov 12 18:25:51 vertex-vnic caddy[1914]: {"level":"info","ts":1794507951.3598695,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1794526739.3541687,"explanation_url":""}
+Nov 13 01:37:07 vertex-vnic caddy[1914]: {"level":"info","ts":1794533827.4585233,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1797004788,"recheck_after":1794557005.4584985,"explanation_url":""}
+Nov 13 01:37:07 vertex-vnic caddy[1914]: {"level":"info","ts":1794533827.463926,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1794557005.4584985,"explanation_url":""}
