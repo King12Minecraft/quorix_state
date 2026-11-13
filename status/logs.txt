@@ -1,8 +1,6 @@
-# 2026-11-13T14:04:09Z
+# 2026-11-13T14:06:16Z
 
 ## quorix-server
-Nov 13 11:40:11 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 13 11:40:11 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 Nov 13 11:41:29 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 Nov 13 11:41:31 vertex-vnic java[1937]: Client connected: /x.x.x.x
 Nov 13 11:42:21 vertex-vnic java[1937]: Client connected: /x.x.x.x
@@ -121,6 +119,8 @@ Nov 13 14:02:02 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 Nov 13 14:02:04 vertex-vnic java[1937]: Backup written: quorix-backup-20261113-140202.zip
 Nov 13 14:03:01 vertex-vnic java[1937]: Client connected: /x.x.x.x
 Nov 13 14:03:01 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 13 14:05:11 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 13 14:05:11 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 07 11:47:45 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
@@ -251,8 +251,6 @@ Nov 13 11:06:33 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderb
 Nov 13 11:06:34 vertex-vnic waitress-serve[56082]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
-Nov 10 13:19:12 vertex-vnic caddy[1916]: {"level":"info","ts":1794316752.3724334,"msg":"autosaved config (load with --resume flag)","file":"/var/lib/caddy/.config/caddy/autosave.json"}
-Nov 10 13:19:12 vertex-vnic caddy[1916]: {"level":"info","ts":1794316752.3725793,"msg":"serving initial configuration"}
 Nov 10 13:19:12 vertex-vnic systemd[1]: Started Caddy.
 Nov 10 13:19:12 vertex-vnic caddy[1916]: {"level":"info","ts":1794316752.38317,"logger":"tls","msg":"storage cleaning happened too recently; skipping for now","storage":"FileStorage:/var/lib/caddy/.local/share/caddy","instance":"[secret]","try_again":1794403152.3831666,"try_again_in":86399.999999228}
 Nov 10 13:19:12 vertex-vnic caddy[1916]: {"level":"info","ts":1794316752.3832655,"logger":"tls","msg":"finished cleaning storage units"}
@@ -373,3 +371,5 @@ Nov 13 08:05:51 vertex-vnic caddy[1914]: {"level":"info","ts":1794557151.3099058
 Nov 13 08:05:51 vertex-vnic caddy[1914]: {"level":"info","ts":1794557151.3149166,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1794578730.3098853,"explanation_url":""}
 Nov 13 11:25:50 vertex-vnic caddy[1914]: {"level":"info","ts":1794569150.4876094,"logger":"tls","msg":"storage cleaning happened too recently; skipping for now","storage":"FileStorage:/var/lib/caddy/.local/share/caddy","instance":"[secret]","try_again":1794655550.4876056,"try_again_in":86399.999999249}
 Nov 13 11:25:50 vertex-vnic caddy[1914]: {"level":"info","ts":1794569150.4879503,"logger":"tls","msg":"finished cleaning storage units"}
+Nov 13 14:05:51 vertex-vnic caddy[1914]: {"level":"info","ts":1794578751.6519644,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796948728,"recheck_after":1794597487.6517437,"explanation_url":""}
+Nov 13 14:05:51 vertex-vnic caddy[1914]: {"level":"info","ts":1794578751.658326,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1794597487.6517437,"explanation_url":""}
