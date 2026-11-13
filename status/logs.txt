@@ -1,14 +1,6 @@
-# 2026-11-13T15:51:35Z
+# 2026-11-13T16:42:37Z
 
 ## quorix-server
-Nov 13 14:03:01 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 13 14:03:01 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
-Nov 13 14:05:11 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 13 14:05:11 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
-Nov 13 14:07:21 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 13 14:07:21 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
-Nov 13 14:09:31 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 13 14:09:31 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 Nov 13 14:11:41 vertex-vnic java[1937]: Client connected: /x.x.x.x
 Nov 13 14:11:41 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 Nov 13 14:13:51 vertex-vnic java[1937]: Client connected: /x.x.x.x
@@ -121,14 +113,16 @@ Nov 13 15:48:25 vertex-vnic java[1937]: Client connected: /x.x.x.x
 Nov 13 15:48:25 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 Nov 13 15:50:26 vertex-vnic java[1937]: Client connected: /x.x.x.x
 Nov 13 15:50:26 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 13 16:36:55 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 13 16:36:55 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 13 16:36:56 vertex-vnic java[1937]: Closing a client that stopped reading: /x.x.x.x
+Nov 13 16:36:56 vertex-vnic java[1937]: Closing a client that stopped reading: /x.x.x.x
+Nov 13 16:42:30 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 13 16:42:30 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 13 16:42:33 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 13 16:42:33 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 
 ## quorix-web
-Nov 07 13:52:26 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
-Nov 07 13:52:26 vertex-vnic systemd[1]: quorix-web.service: Consumed 1min 34.934s CPU time.
-Nov 07 13:52:26 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
-Nov 07 13:52:27 vertex-vnic waitress-serve[5316]: INFO:waitress:Serving on http://x.x.x.x:8080
-Nov 07 14:03:15 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
-Nov 07 14:03:15 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
 Nov 07 14:03:15 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 07 14:03:15 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 07 14:03:16 vertex-vnic waitress-serve[6081]: INFO:waitress:Serving on http://x.x.x.x:8080
@@ -249,6 +243,12 @@ Nov 13 15:43:02 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderb
 Nov 13 15:43:02 vertex-vnic systemd[1]: quorix-web.service: Consumed 6.172s CPU time.
 Nov 13 15:43:02 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 13 15:43:03 vertex-vnic waitress-serve[67639]: INFO:waitress:Serving on http://x.x.x.x:8080
+Nov 13 16:42:29 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Nov 13 16:42:29 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Nov 13 16:42:29 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 13 16:42:29 vertex-vnic systemd[1]: quorix-web.service: Consumed 18.697s CPU time.
+Nov 13 16:42:30 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 13 16:42:31 vertex-vnic waitress-serve[68605]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
 Nov 10 13:19:12 vertex-vnic systemd[1]: Started Caddy.
