@@ -1,11 +1,6 @@
-# 2026-11-14T16:08:07Z
+# 2026-11-14T16:10:09Z
 
 ## quorix-server
-Nov 14 09:05:50 vertex-vnic java[1934]: Client disconnected: /x.x.x.x
-Nov 14 09:06:59 vertex-vnic java[1934]: Client connected: /x.x.x.x
-Nov 14 09:06:59 vertex-vnic java[1934]: Client disconnected: /x.x.x.x
-Nov 14 09:09:09 vertex-vnic java[1934]: Client connected: /x.x.x.x
-Nov 14 09:09:09 vertex-vnic java[1934]: Client disconnected: /x.x.x.x
 Nov 14 09:11:19 vertex-vnic java[1934]: Client connected: /x.x.x.x
 Nov 14 09:11:19 vertex-vnic java[1934]: Client disconnected: /x.x.x.x
 Nov 14 09:13:29 vertex-vnic java[1934]: Client connected: /x.x.x.x
@@ -122,6 +117,11 @@ Nov 14 13:00:56 vertex-vnic java[1934]: Client connected: /x.x.x.x
 Nov 14 13:00:56 vertex-vnic java[1934]: Client disconnected: /x.x.x.x
 -- Boot [secret] --
 Nov 14 16:07:51 vertex-vnic systemd[1]: Started Quorix game server.
+Nov 14 16:08:12 vertex-vnic java[1935]: Quorix server listening on port 7777
+Nov 14 16:08:12 vertex-vnic java[1935]: Self-update is off (QUORIX_AUTO_UPDATE=off).
+Nov 14 16:08:13 vertex-vnic java[1935]: Web API listening on x.x.x.x:7790
+Nov 14 16:08:13 vertex-vnic java[1935]: Web gateway listening on x.x.x.x:7791
+Nov 14 16:08:13 vertex-vnic java[1935]: Backups on: every 24 h into ./backups, keeping 3.
 
 ## quorix-web
 Nov 08 13:40:32 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
