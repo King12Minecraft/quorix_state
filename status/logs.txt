@@ -1,16 +1,6 @@
-# 2026-11-14T16:46:57Z
+# 2026-11-14T16:54:09Z
 
 ## quorix-server
-Nov 14 12:09:29 vertex-vnic java[1934]: Client disconnected: /x.x.x.x
-Nov 14 12:11:39 vertex-vnic java[1934]: Client connected: /x.x.x.x
-Nov 14 12:11:39 vertex-vnic java[1934]: Client disconnected: /x.x.x.x
-Nov 14 12:13:49 vertex-vnic java[1934]: Client connected: /x.x.x.x
-Nov 14 12:13:49 vertex-vnic java[1934]: Client disconnected: /x.x.x.x
-Nov 14 12:15:59 vertex-vnic java[1934]: Client connected: /x.x.x.x
-Nov 14 12:15:59 vertex-vnic java[1934]: Client disconnected: /x.x.x.x
-Nov 14 12:18:09 vertex-vnic java[1934]: Client connected: /x.x.x.x
-Nov 14 12:18:09 vertex-vnic java[1934]: Client disconnected: /x.x.x.x
-Nov 14 12:20:19 vertex-vnic java[1934]: Client connected: /x.x.x.x
 Nov 14 12:20:19 vertex-vnic java[1934]: Client disconnected: /x.x.x.x
 Nov 14 12:22:29 vertex-vnic java[1934]: Client connected: /x.x.x.x
 Nov 14 12:22:29 vertex-vnic java[1934]: Client disconnected: /x.x.x.x
@@ -122,13 +112,18 @@ Nov 14 16:45:47 vertex-vnic java[1935]: Client connected: /x.x.x.x
 Nov 14 16:45:50 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
 Nov 14 16:45:52 vertex-vnic java[1935]: Client connected: /x.x.x.x
 Nov 14 16:45:52 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
+Nov 14 16:48:02 vertex-vnic java[1935]: Client connected: /x.x.x.x
+Nov 14 16:48:02 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
+Nov 14 16:48:19 vertex-vnic java[1935]: Client connected: /x.x.x.x
+Nov 14 16:49:48 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
+Nov 14 16:53:55 vertex-vnic java[1935]: Client connected: /x.x.x.x
+Nov 14 16:53:55 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
+Nov 14 16:53:59 vertex-vnic java[1935]: Client connected: /x.x.x.x
+Nov 14 16:54:00 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
+Nov 14 16:54:11 vertex-vnic java[1935]: Client connected: /x.x.x.x
+Nov 14 16:54:11 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
 
 ## quorix-web
-Nov 08 14:20:06 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
-Nov 08 14:20:06 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
-Nov 08 14:20:06 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
-Nov 08 14:20:06 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
-Nov 08 14:20:07 vertex-vnic waitress-serve[50572]: INFO:waitress:Serving on http://x.x.x.x:8080
 Nov 08 14:37:24 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
 Nov 08 14:37:24 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
 Nov 08 14:37:24 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
@@ -252,6 +247,11 @@ Nov 14 16:38:10 vertex-vnic systemd[1]: quorix-web.service: Deactivated successf
 Nov 14 16:38:10 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 14 16:38:10 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 14 16:38:11 vertex-vnic waitress-serve[3812]: INFO:waitress:Serving on http://x.x.x.x:8080
+Nov 14 16:53:54 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Nov 14 16:53:54 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Nov 14 16:53:54 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 14 16:53:54 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 14 16:53:58 vertex-vnic waitress-serve[4610]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
 Nov 12 11:25:50 vertex-vnic caddy[1914]: {"level":"info","ts":1794482750.4648838,"msg":"failed to sufficiently increase receive buffer size (was: 224 kiB, wanted: 7168 kiB, got: 448 kiB). See https://github.[secret] for details."}
