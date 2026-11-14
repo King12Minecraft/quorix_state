@@ -1,8 +1,6 @@
-# 2026-11-14T17:56:27Z
+# 2026-11-14T17:58:37Z
 
 ## quorix-server
-Nov 14 16:08:12 vertex-vnic java[1935]: Quorix server listening on port 7777
-Nov 14 16:08:12 vertex-vnic java[1935]: Self-update is off (QUORIX_AUTO_UPDATE=off).
 Nov 14 16:08:13 vertex-vnic java[1935]: Web API listening on x.x.x.x:7790
 Nov 14 16:08:13 vertex-vnic java[1935]: Web gateway listening on x.x.x.x:7791
 Nov 14 16:08:13 vertex-vnic java[1935]: Backups on: every 24 h into ./backups, keeping 3.
@@ -121,6 +119,8 @@ Nov 14 17:53:12 vertex-vnic java[1935]: Client connected: /x.x.x.x
 Nov 14 17:53:12 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
 Nov 14 17:55:22 vertex-vnic java[1935]: Client connected: /x.x.x.x
 Nov 14 17:55:22 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
+Nov 14 17:57:32 vertex-vnic java[1935]: Client connected: /x.x.x.x
+Nov 14 17:57:32 vertex-vnic java[1935]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 08 14:43:54 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
