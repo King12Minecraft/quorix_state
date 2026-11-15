@@ -1,25 +1,6 @@
-# 2026-11-15T12:24:13Z
+# 2026-11-15T12:28:22Z
 
 ## quorix-server
-Nov 15 11:05:29 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 11:06:33 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 11:06:34 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 11:07:32 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 11:07:33 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 11:08:33 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 11:08:34 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 11:09:41 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 11:09:41 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
--- Boot [secret] --
-Nov 15 11:53:27 vertex-vnic systemd[1]: Started Quorix game server.
-Nov 15 11:53:47 vertex-vnic java[1940]: Quorix server listening on port 7777
-Nov 15 11:53:48 vertex-vnic java[1940]: Self-update is off (QUORIX_AUTO_UPDATE=off).
-Nov 15 11:53:48 vertex-vnic java[1940]: Web API listening on x.x.x.x:7790
-Nov 15 11:53:48 vertex-vnic java[1940]: Web gateway listening on x.x.x.x:7791
-Nov 15 11:53:48 vertex-vnic java[1940]: Backups on: every 24 h into ./backups, keeping 3.
-Nov 15 11:56:19 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 11:56:19 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 11:56:22 vertex-vnic java[1940]: Client connected: /x.x.x.x
 Nov 15 11:56:22 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
 Nov 15 11:56:38 vertex-vnic java[1940]: Client connected: /x.x.x.x
 Nov 15 11:56:38 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
@@ -122,13 +103,26 @@ Nov 15 12:20:58 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
 Nov 15 12:23:08 vertex-vnic java[1940]: Client connected: /x.x.x.x
 Nov 15 12:23:08 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
 Nov 15 12:23:56 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:25:15 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:25:18 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:25:18 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:27:09 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:27:11 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:27:34 vertex-vnic java[1940]: Client timed out (no traffic for 25s): /x.x.x.x
+Nov 15 12:27:38 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:27:38 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:27:38 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:27:38 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:27:40 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:27:41 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:27:47 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:28:03 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:28:16 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:28:16 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:28:19 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:28:19 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
 
 ## quorix-web
-Nov 09 16:24:37 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
-Nov 09 16:24:37 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
-Nov 09 16:24:37 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
-Nov 09 16:24:38 vertex-vnic waitress-serve[2286]: INFO:waitress:Serving on http://x.x.x.x:8080
-Nov 10 12:15:54 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
 Nov 10 12:15:54 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
 Nov 10 12:15:54 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 10 12:15:54 vertex-vnic systemd[1]: quorix-web.service: Consumed 8min 5.765s CPU time.
@@ -252,9 +246,13 @@ Nov 15 11:56:19 vertex-vnic systemd[1]: quorix-web.service: Deactivated successf
 Nov 15 11:56:19 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 15 11:56:19 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 15 11:56:20 vertex-vnic waitress-serve[2266]: INFO:waitress:Serving on http://x.x.x.x:8080
+Nov 15 12:28:16 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Nov 15 12:28:16 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Nov 15 12:28:16 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 15 12:28:16 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 15 12:28:17 vertex-vnic waitress-serve[4157]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
-Nov 15 02:02:21 vertex-vnic caddy[1931]: os.Getwd=/
 Nov 15 02:02:21 vertex-vnic caddy[1931]: LANG=en_US.UTF-8
 Nov 15 02:02:21 vertex-vnic caddy[1931]: PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin
 Nov 15 02:02:21 vertex-vnic caddy[1931]: [secret]
@@ -376,3 +374,4 @@ Nov 15 11:53:33 vertex-vnic systemd[1]: Started Caddy.
 Nov 15 11:53:33 vertex-vnic caddy[1920]: {"level":"info","ts":1794743613.718043,"msg":"serving initial configuration"}
 Nov 15 11:53:33 vertex-vnic caddy[1920]: {"level":"info","ts":1794743613.7251322,"logger":"tls","msg":"storage cleaning happened too recently; skipping for now","storage":"FileStorage:/var/lib/caddy/.local/share/caddy","instance":"[secret]","try_again":1794830013.7251298,"try_again_in":86399.999999316}
 Nov 15 11:53:33 vertex-vnic caddy[1920]: {"level":"info","ts":1794743613.7252262,"logger":"tls","msg":"finished cleaning storage units"}
+Nov 15 12:28:16 vertex-vnic caddy[1920]: {"level":"error","ts":1794745696.2613769,"logger":"http.log.error","msg":"dial tcp x.x.x.x:8080: connect: connection refused","request":{"remote_ip":"x.x.x.x","remote_port":"55106","client_ip":"x.x.x.x","proto":"HTTP/2.0","method":"GET","host":"140-245-254-251.sslip.io","uri":"/gw/poll?[secret]&wait=15","headers":{"Cache-Control":["no-cache"],"Accept":["*/*,image/webp"],"Netlify-Invocation-Source":["client"],"Sec-Fetch-Mode":["cors"],"Priority":["u=1, i"],"X-Nf-Account-Id":["686d3dd69c5364362f074462"],"Sec-Fetch-Dest":["empty"],"Sec-Ch-Ua":["\"Not-A.Brand\";v=\"99\", \"Google Chrome\";v=\"157\", \"Chromium\";v=\"157\""],"Sec-Ch-Ua-Mobile":["?0"],"Sec-Fetch-Site":["same-origin"],"Accept-Language":["en-GB,en-US;q=0.9,en;q=0.8"],"X-Nf-Netlify-Proxy":["[secret].[secret].[secret]"],"Pragma":["no-cache"],"X-Country":["IN"],"X-Nf-Client-Connection-Ip":["ipv6"],"Accept-Encoding":["br"],"Referer":["https://quorixgames.netlify.app/"],"X-Forwarded-Proto":["https"],"Traceparent":["[secret]"],"Dnt":["1"],"X-Nf-Account-Tier":["account_type_free"],"Sec-Ch-Ua-Platform":["\"Windows\""],"Netlify-Agent-Category":["browser"],"X-Forwarded-For":["ipv6, x.x.x.x"],"User-Agent":["Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/x.x.x.x Safari/537.36"],"Cdn-Loop":["netlify"],"X-Language":["en-GB"],"X-Nf-Site-Id":["[secret]"],"X-Nf-Request-Id":["01M7FJVYDXBAFENY8G5SSP6MCQ"]},"tls":{"resumed":false,"version":772,"cipher_suite":4865,"proto":"h2","server_name":"140-245-254-251.sslip.io","ech":false}},"duration":1.578463692,"status":502,"err_id":"84vr8ggdp","err_trace":"reverseproxy.statusError (reverseproxy.go:1626)"}
