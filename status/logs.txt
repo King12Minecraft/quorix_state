@@ -1,16 +1,6 @@
-# 2026-11-15T08:30:56Z
+# 2026-11-15T08:35:00Z
 
 ## quorix-server
-Nov 15 06:35:20 vertex-vnic java[1955]: Client connected: /x.x.x.x
-Nov 15 06:35:20 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
-Nov 15 06:37:30 vertex-vnic java[1955]: Client connected: /x.x.x.x
-Nov 15 06:37:30 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
-Nov 15 06:39:40 vertex-vnic java[1955]: Client connected: /x.x.x.x
-Nov 15 06:39:40 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
-Nov 15 06:41:50 vertex-vnic java[1955]: Client connected: /x.x.x.x
-Nov 15 06:41:50 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
-Nov 15 06:43:57 vertex-vnic java[1955]: Client connected: /x.x.x.x
-Nov 15 06:43:59 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
 Nov 15 06:45:55 vertex-vnic java[1955]: Client connected: /x.x.x.x
 Nov 15 06:45:55 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
 Nov 15 07:02:56 vertex-vnic java[1955]: Client connected: /x.x.x.x
@@ -121,14 +111,18 @@ Nov 15 08:28:56 vertex-vnic java[1955]: Client connected: /x.x.x.x
 Nov 15 08:28:56 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
 Nov 15 08:30:00 vertex-vnic java[1955]: Client connected: /x.x.x.x
 Nov 15 08:30:00 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
+Nov 15 08:31:10 vertex-vnic java[1955]: Client connected: /x.x.x.x
+Nov 15 08:31:10 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
+Nov 15 08:32:20 vertex-vnic java[1955]: Client connected: /x.x.x.x
+Nov 15 08:32:20 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
+Nov 15 08:34:27 vertex-vnic java[1955]: Client connected: /x.x.x.x
+Nov 15 08:34:27 vertex-vnic java[1955]: Client connected: /x.x.x.x
+Nov 15 08:34:54 vertex-vnic java[1955]: Client connected: /x.x.x.x
+Nov 15 08:34:54 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
+Nov 15 08:34:57 vertex-vnic java[1955]: Client connected: /x.x.x.x
+Nov 15 08:34:57 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
 
 ## quorix-web
-Nov 08 14:43:54 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
-Nov 08 14:43:55 vertex-vnic waitress-serve[52189]: INFO:waitress:Serving on http://x.x.x.x:8080
-Nov 08 18:22:41 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
-Nov 08 18:22:41 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
-Nov 08 18:22:41 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
-Nov 08 18:22:41 vertex-vnic systemd[1]: quorix-web.service: Consumed 1min 37.189s CPU time.
 Nov 08 18:22:41 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 08 18:22:42 vertex-vnic waitress-serve[55140]: INFO:waitress:Serving on http://x.x.x.x:8080
 -- Boot [secret] --
@@ -252,9 +246,14 @@ Nov 14 17:34:37 vertex-vnic waitress-serve[6643]: INFO:waitress:Serving on http:
 -- Boot [secret] --
 Nov 15 02:02:16 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 15 02:02:32 vertex-vnic waitress-serve[1958]: INFO:waitress:Serving on http://x.x.x.x:8080
+Nov 15 08:34:54 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
+Nov 15 08:34:54 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
+Nov 15 08:34:54 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 15 08:34:54 vertex-vnic systemd[1]: quorix-web.service: Consumed 3min 8.220s CPU time.
+Nov 15 08:34:54 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 15 08:34:55 vertex-vnic waitress-serve[14725]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
-Nov 14 06:25:24 vertex-vnic caddy[1912]: PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin
 Nov 14 06:25:24 vertex-vnic caddy[1912]: [secret]
 Nov 14 06:25:24 vertex-vnic caddy[1912]: HOME=/var/lib/caddy
 Nov 14 06:25:24 vertex-vnic caddy[1912]: LOGNAME=caddy
@@ -376,3 +375,4 @@ Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.2999227
 Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.300039,"logger":"tls","msg":"finished cleaning storage units"}
 Nov 15 05:37:56 vertex-vnic caddy[1931]: {"level":"info","ts":1794721076.4587727,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1797002621,"recheck_after":1794740639.4587433,"explanation_url":""}
 Nov 15 05:37:56 vertex-vnic caddy[1931]: {"level":"info","ts":1794721076.4664507,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1794740639.4587433,"explanation_url":""}
+Nov 15 08:34:54 vertex-vnic caddy[1931]: {"level":"error","ts":1794731694.3837311,"logger":"http.log.error","msg":"dial tcp x.x.x.x:8080: connect: connection refused","request":{"remote_ip":"x.x.x.x","remote_port":"37066","client_ip":"x.x.x.x","proto":"HTTP/2.0","method":"GET","host":"140-245-254-251.sslip.io","uri":"/gw/poll?[secret]&wait=15","headers":{"Priority":["u=3, i"],"X-Forwarded-Proto":["https"],"Netlify-Agent-Category":["browser"],"X-Nf-Request-Id":["01M7F5GDBVSX4ZE1CY9HV5EM5C"],"X-Country":["IN"],"X-Forwarded-For":["ipv6, x.x.x.x"],"Netlify-Invocation-Source":["client"],"X-Nf-Netlify-Proxy":["[secret].[secret].[secret]"],"User-Agent":["Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0.1 Mobile/15E148 Safari/604.1"],"Sec-Fetch-Mode":["cors"],"Pragma":["no-cache"],"X-Nf-Client-Connection-Ip":["ipv6"],"Cdn-Loop":["netlify"],"Sec-Fetch-Site":["same-origin"],"X-Nf-Account-Id":["686d3dd69c5364362f074462"],"Referer":["https://quorixgames.netlify.app/"],"Traceparent":["[secret]"],"X-Language":["en-IN"],"Accept-Language":["en-IN,en;q=0.9"],"Sec-Fetch-Dest":["empty"],"Accept":["*/*,image/webp"],"X-Nf-Account-Tier":["account_type_free"],"Accept-Encoding":["br"],"Cache-Control":["no-cache"],"X-Nf-Site-Id":["[secret]"]},"tls":{"resumed":false,"version":772,"cipher_suite":4865,"proto":"h2","server_name":"140-245-254-251.sslip.io","ech":false}},"duration":9.114943566,"status":502,"err_id":"5cr2aci8m","err_trace":"reverseproxy.statusError (reverseproxy.go:1626)"}
