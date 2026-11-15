@@ -1,8 +1,6 @@
-# 2026-11-15T05:59:36Z
+# 2026-11-15T06:01:46Z
 
 ## quorix-server
-Nov 15 02:02:38 vertex-vnic java[1955]: Self-update is off (QUORIX_AUTO_UPDATE=off).
-Nov 15 02:02:38 vertex-vnic java[1955]: Web API listening on x.x.x.x:7790
 Nov 15 02:02:38 vertex-vnic java[1955]: Web gateway listening on x.x.x.x:7791
 Nov 15 02:02:38 vertex-vnic java[1955]: Backups on: every 24 h into ./backups, keeping 3.
 Nov 15 02:05:31 vertex-vnic java[1955]: Client connected: /x.x.x.x
@@ -121,6 +119,8 @@ Nov 15 05:56:20 vertex-vnic java[1955]: Client connected: /x.x.x.x
 Nov 15 05:56:20 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
 Nov 15 05:58:30 vertex-vnic java[1955]: Client connected: /x.x.x.x
 Nov 15 05:58:30 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
+Nov 15 06:00:40 vertex-vnic java[1955]: Client connected: /x.x.x.x
+Nov 15 06:00:40 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 08 14:43:54 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
