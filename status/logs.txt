@@ -1,73 +1,6 @@
-# 2026-11-15T12:19:53Z
+# 2026-11-15T12:22:03Z
 
 ## quorix-server
-Nov 15 08:36:53 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
-Nov 15 08:37:34 vertex-vnic java[1955]: Client connected: /x.x.x.x
-Nov 15 08:37:41 vertex-vnic java[1955]: Client connected: /x.x.x.x
-Nov 15 08:37:41 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
-Nov 15 08:38:45 vertex-vnic java[1955]: Client connected: /x.x.x.x
-Nov 15 08:38:45 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
-Nov 15 08:39:44 vertex-vnic java[1955]: Client connected: /x.x.x.x
-Nov 15 08:39:44 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
-Nov 15 08:40:32 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
-Nov 15 08:40:33 vertex-vnic java[1955]: Client connected: /x.x.x.x
-Nov 15 08:40:45 vertex-vnic java[1955]: Client connected: /x.x.x.x
-Nov 15 08:40:45 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
-Nov 15 08:41:46 vertex-vnic java[1955]: Client connected: /x.x.x.x
-Nov 15 08:41:46 vertex-vnic java[1955]: Client disconnected: /x.x.x.x
--- Boot [secret] --
-Nov 15 10:34:20 vertex-vnic systemd[1]: Started Quorix game server.
-Nov 15 10:34:40 vertex-vnic java[1942]: Quorix server listening on port 7777
-Nov 15 10:34:40 vertex-vnic java[1942]: Self-update is off (QUORIX_AUTO_UPDATE=off).
-Nov 15 10:34:41 vertex-vnic java[1942]: Web API listening on x.x.x.x:7790
-Nov 15 10:34:41 vertex-vnic java[1942]: Web gateway listening on x.x.x.x:7791
-Nov 15 10:34:41 vertex-vnic java[1942]: Backups on: every 24 h into ./backups, keeping 3.
-Nov 15 10:36:08 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:36:09 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:37:00 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:37:00 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:37:03 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:37:03 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:37:16 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:37:29 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:37:37 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:37:37 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:38:47 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:38:47 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:39:34 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:39:36 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:39:57 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:39:57 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:40:02 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:40:47 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:42:17 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:42:17 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:44:27 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:44:27 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:46:37 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:46:37 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:48:44 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:48:44 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:50:48 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:50:48 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:53:07 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:53:07 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:55:17 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:55:17 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:56:27 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:56:27 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:57:37 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:57:37 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:58:47 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:58:47 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 10:59:57 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 10:59:57 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 11:01:01 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 11:01:01 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 11:02:07 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 11:02:07 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 15 11:03:17 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 15 11:03:17 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
 Nov 15 11:04:27 vertex-vnic java[1942]: Client connected: /x.x.x.x
 Nov 15 11:04:27 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
 Nov 15 11:05:29 vertex-vnic java[1942]: Client connected: /x.x.x.x
@@ -123,6 +56,72 @@ Nov 15 12:16:38 vertex-vnic java[1940]: Client connected: /x.x.x.x
 Nov 15 12:16:38 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
 Nov 15 12:18:48 vertex-vnic java[1940]: Client connected: /x.x.x.x
 Nov 15 12:18:48 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:38 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:38 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:39 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:39 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:39 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:39 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:39 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:39 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:39 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:40 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:40 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:40 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:40 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:45 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:45 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:45 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:45 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:45 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:46 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:46 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:46 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:46 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:46 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:46 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:47 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:47 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:47 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:47 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:47 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:47 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:48 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:48 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:48 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:48 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:48 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:48 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:49 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:49 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:49 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:49 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:49 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:49 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:49 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:49 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:50 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:50 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:50 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:50 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:50 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:50 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:51 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:51 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:51 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:51 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:51 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:51 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:52 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:52 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:52 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:52 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:52 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:52 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:53 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:53 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+Nov 15 12:20:58 vertex-vnic java[1940]: Client connected: /x.x.x.x
+Nov 15 12:20:58 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 09 16:24:37 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
