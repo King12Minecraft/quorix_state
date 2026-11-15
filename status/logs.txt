@@ -1,36 +1,6 @@
-# 2026-11-15T17:44:47Z
+# 2026-11-15T23:33:45Z
 
 ## quorix-server
-Nov 15 14:12:08 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:13:18 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:13:18 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:14:28 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:14:28 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:15:38 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:15:38 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:16:48 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:16:48 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:17:58 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:17:58 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:18:01 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:18:02 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:18:05 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:18:05 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:18:10 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:18:10 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:18:11 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:18:12 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:18:12 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:18:16 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:18:17 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:18:17 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:18:18 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:18:18 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:19:08 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:19:08 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:20:18 vertex-vnic java[1940]: Client connected: /x.x.x.x
-Nov 15 14:20:18 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
-Nov 15 14:22:38 vertex-vnic java[1940]: Client connected: /x.x.x.x
 Nov 15 14:22:38 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
 Nov 15 14:24:48 vertex-vnic java[1940]: Client connected: /x.x.x.x
 Nov 15 14:24:48 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
@@ -122,6 +92,36 @@ Nov 15 17:42:45 vertex-vnic java[1932]: Client connected: /x.x.x.x
 Nov 15 17:42:46 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
 Nov 15 17:43:47 vertex-vnic java[1932]: Client connected: /x.x.x.x
 Nov 15 17:43:47 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 17:44:52 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 17:44:54 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 17:45:48 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 17:45:48 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 23:33:33 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 23:33:34 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 23:33:34 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 23:33:34 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 23:33:34 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 23:33:34 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 23:33:34 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 23:33:35 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 23:33:35 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 23:33:35 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 23:33:35 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 23:33:35 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 23:33:35 vertex-vnic java[1932]: Client connected: /x.x.x.x
+Nov 15 23:33:35 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 23:33:35 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 23:33:36 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 23:33:37 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 23:33:37 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 23:33:37 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 23:33:37 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 23:33:37 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 23:33:37 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 23:33:37 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 23:33:37 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 23:33:37 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
+Nov 15 23:33:37 vertex-vnic java[1932]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 10 17:37:23 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
@@ -254,8 +254,6 @@ Nov 15 16:38:07 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderb
 Nov 15 16:38:21 vertex-vnic waitress-serve[1937]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
-Nov 15 10:34:24 vertex-vnic caddy[1918]: runtime.GOMAXPROCS=2
-Nov 15 10:34:24 vertex-vnic caddy[1918]: runtime.Version=go1.26.4 (Red Hat 1.26.4-1.el9_8)
 Nov 15 10:34:24 vertex-vnic caddy[1918]: os.Getwd=/
 Nov 15 10:34:24 vertex-vnic caddy[1918]: LANG=en_US.UTF-8
 Nov 15 10:34:24 vertex-vnic caddy[1918]: PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin
@@ -376,3 +374,5 @@ Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.4897873
 Nov 15 16:38:12 vertex-vnic systemd[1]: Started Caddy.
 Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.503551,"logger":"tls","msg":"storage cleaning happened too recently; skipping for now","storage":"FileStorage:/var/lib/caddy/.local/share/caddy","instance":"[secret]","try_again":1794847092.5035481,"try_again_in":86399.999999389}
 Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.5036676,"logger":"tls","msg":"finished cleaning storage units"}
+Nov 15 23:33:42 vertex-vnic caddy[1913]: {"level":"info","ts":1794785622.2602813,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796940788,"recheck_after":1794811080.2602649,"explanation_url":""}
+Nov 15 23:33:42 vertex-vnic caddy[1913]: {"level":"info","ts":1794785622.2659848,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1794811080.2602649,"explanation_url":""}
