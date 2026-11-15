@@ -1,7 +1,6 @@
-# 2026-11-15T14:32:10Z
+# 2026-11-15T16:38:25Z
 
 ## quorix-server
-Nov 15 13:04:58 vertex-vnic java[1940]: Client connected: /x.x.x.x
 Nov 15 13:04:58 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
 Nov 15 13:07:08 vertex-vnic java[1940]: Client connected: /x.x.x.x
 Nov 15 13:07:08 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
@@ -121,10 +120,10 @@ Nov 15 14:29:00 vertex-vnic java[1940]: Client connected: /x.x.x.x
 Nov 15 14:29:00 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
 Nov 15 14:31:02 vertex-vnic java[1940]: Client connected: /x.x.x.x
 Nov 15 14:31:03 vertex-vnic java[1940]: Client disconnected: /x.x.x.x
+-- Boot [secret] --
+Nov 15 16:38:06 vertex-vnic systemd[1]: Started Quorix game server.
 
 ## quorix-web
-Nov 10 13:19:06 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
-Nov 10 13:19:20 vertex-vnic waitress-serve[1940]: INFO:waitress:Serving on http://x.x.x.x:8080
 Nov 10 17:37:23 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
 Nov 10 17:37:23 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
 Nov 10 17:37:23 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
@@ -250,51 +249,11 @@ Nov 15 12:38:53 vertex-vnic systemd[1]: quorix-web.service: Deactivated successf
 Nov 15 12:38:53 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 15 12:38:53 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
 Nov 15 12:38:54 vertex-vnic waitress-serve[4800]: INFO:waitress:Serving on http://x.x.x.x:8080
+-- Boot [secret] --
+Nov 15 16:38:07 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
+Nov 15 16:38:21 vertex-vnic waitress-serve[1937]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
-Nov 15 02:02:21 vertex-vnic caddy[1931]: LANG=en_US.UTF-8
-Nov 15 02:02:21 vertex-vnic caddy[1931]: PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin
-Nov 15 02:02:21 vertex-vnic caddy[1931]: [secret]
-Nov 15 02:02:21 vertex-vnic caddy[1931]: HOME=/var/lib/caddy
-Nov 15 02:02:21 vertex-vnic caddy[1931]: LOGNAME=caddy
-Nov 15 02:02:21 vertex-vnic caddy[1931]: USER=caddy
-Nov 15 02:02:21 vertex-vnic caddy[1931]: [secret]
-Nov 15 02:02:21 vertex-vnic caddy[1931]: JOURNAL_STREAM=9:12635
-Nov 15 02:02:21 vertex-vnic caddy[1931]: SYSTEMD_EXEC_PID=1931
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.0653641,"msg":"maxprocs: Leaving GOMAXPROCS=2: CPU quota undefined"}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.0664556,"msg":"GOMEMLIMIT is updated","GOMEMLIMIT":892661760,"previous":9223372036854775807}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.0713096,"msg":"using config from file","file":"/etc/caddy/Caddyfile"}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.0713603,"msg":"adapted config to JSON","adapter":"caddyfile"}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.0878131,"logger":"admin","msg":"admin endpoint started","address":"localhost:2019","enforce_origin":false,"origins":["//localhost:2019","//[::1]:2019","//x.x.x.x:2019"]}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.1735044,"logger":"http.auto_https","msg":"server is listening only on the HTTPS port but has no TLS connection policies; adding one to enable TLS","server_name":"srv0","https_port":443}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.1740503,"logger":"http.auto_https","msg":"enabling automatic HTTP->HTTPS redirects","server_name":"srv0"}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.1751509,"logger":"tls.cache.maintenance","msg":"started background certificate maintenance","cache":"0x37f651fb8300"}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.179179,"logger":"http","msg":"enabling HTTP/3 listener","addr":":443"}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.1815095,"msg":"failed to sufficiently increase receive buffer size (was: 224 kiB, wanted: 7168 kiB, got: 448 kiB). See https://github.[secret] for details."}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.186823,"logger":"http.log","msg":"server running","name":"srv0","protocols":["h1","h2","h3"]}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"warn","ts":1794708142.1869836,"logger":"http","msg":"HTTP/2 skipped because it requires TLS","network":"tcp","addr":":80"}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"warn","ts":1794708142.186997,"logger":"http","msg":"HTTP/3 skipped because it requires TLS","network":"tcp","addr":":80"}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.187005,"logger":"http.log","msg":"server running","name":"remaining_auto_https_redirects","protocols":["h1","h2","h3"]}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.187015,"logger":"http","msg":"enabling automatic TLS certificate management","domains":["140-245-254-251.sslip.io"]}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.187527,"msg":"autosaved config (load with --resume flag)","file":"/var/lib/caddy/.config/caddy/autosave.json"}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.187616,"msg":"serving initial configuration"}
-Nov 15 02:02:22 vertex-vnic systemd[1]: Started Caddy.
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.2999227,"logger":"tls","msg":"storage cleaning happened too recently; skipping for now","storage":"FileStorage:/var/lib/caddy/.local/share/caddy","instance":"[secret]","try_again":1794794542.2999196,"try_again_in":86399.999999273}
-Nov 15 02:02:22 vertex-vnic caddy[1931]: {"level":"info","ts":1794708142.300039,"logger":"tls","msg":"finished cleaning storage units"}
-Nov 15 05:37:56 vertex-vnic caddy[1931]: {"level":"info","ts":1794721076.4587727,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1797002621,"recheck_after":1794740639.4587433,"explanation_url":""}
-Nov 15 05:37:56 vertex-vnic caddy[1931]: {"level":"info","ts":1794721076.4664507,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1794740639.4587433,"explanation_url":""}
-Nov 15 08:34:54 vertex-vnic caddy[1931]: {"level":"error","ts":1794731694.3837311,"logger":"http.log.error","msg":"dial tcp x.x.x.x:8080: connect: connection refused","request":{"remote_ip":"x.x.x.x","remote_port":"37066","client_ip":"x.x.x.x","proto":"HTTP/2.0","method":"GET","host":"140-245-254-251.sslip.io","uri":"/gw/poll?[secret]&wait=15","headers":{"Priority":["u=3, i"],"X-Forwarded-Proto":["https"],"Netlify-Agent-Category":["browser"],"X-Nf-Request-Id":["01M7F5GDBVSX4ZE1CY9HV5EM5C"],"X-Country":["IN"],"X-Forwarded-For":["ipv6, x.x.x.x"],"Netlify-Invocation-Source":["client"],"X-Nf-Netlify-Proxy":["[secret].[secret].[secret]"],"User-Agent":["Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0.1 Mobile/15E148 Safari/604.1"],"Sec-Fetch-Mode":["cors"],"Pragma":["no-cache"],"X-Nf-Client-Connection-Ip":["ipv6"],"Cdn-Loop":["netlify"],"Sec-Fetch-Site":["same-origin"],"X-Nf-Account-Id":["686d3dd69c5364362f074462"],"Referer":["https://quorixgames.netlify.app/"],"Traceparent":["[secret]"],"X-Language":["en-IN"],"Accept-Language":["en-IN,en;q=0.9"],"Sec-Fetch-Dest":["empty"],"Accept":["*/*,image/webp"],"X-Nf-Account-Tier":["account_type_free"],"Accept-Encoding":["br"],"Cache-Control":["no-cache"],"X-Nf-Site-Id":["[secret]"]},"tls":{"resumed":false,"version":772,"cipher_suite":4865,"proto":"h2","server_name":"140-245-254-251.sslip.io","ech":false}},"duration":9.114943566,"status":502,"err_id":"5cr2aci8m","err_trace":"reverseproxy.statusError (reverseproxy.go:1626)"}
--- Boot [secret] --
-Nov 15 10:34:19 vertex-vnic systemd[1]: Starting Caddy...
-Nov 15 10:34:24 vertex-vnic caddy[1918]: caddy.HomeDir=/var/lib/caddy
-Nov 15 10:34:24 vertex-vnic caddy[1918]: caddy.AppDataDir=/var/lib/caddy/.local/share/caddy
-Nov 15 10:34:24 vertex-vnic caddy[1918]: caddy.AppConfigDir=/var/lib/caddy/.config/caddy
-Nov 15 10:34:24 vertex-vnic caddy[1918]: caddy.[secret].config/caddy/autosave.json
-Nov 15 10:34:24 vertex-vnic caddy[1918]: caddy.Version=v2.11.4 h1:[secret]
-Nov 15 10:34:24 vertex-vnic caddy[1918]: runtime.GOOS=linux
-Nov 15 10:34:24 vertex-vnic caddy[1918]: runtime.GOARCH=amd64
-Nov 15 10:34:24 vertex-vnic caddy[1918]: runtime.Compiler=gc
-Nov 15 10:34:24 vertex-vnic caddy[1918]: runtime.NumCPU=2
 Nov 15 10:34:24 vertex-vnic caddy[1918]: runtime.GOMAXPROCS=2
 Nov 15 10:34:24 vertex-vnic caddy[1918]: runtime.Version=go1.26.4 (Red Hat 1.26.4-1.el9_8)
 Nov 15 10:34:24 vertex-vnic caddy[1918]: os.Getwd=/
@@ -374,3 +333,46 @@ Nov 15 11:53:33 vertex-vnic caddy[1920]: {"level":"info","ts":1794743613.718043,
 Nov 15 11:53:33 vertex-vnic caddy[1920]: {"level":"info","ts":1794743613.7251322,"logger":"tls","msg":"storage cleaning happened too recently; skipping for now","storage":"FileStorage:/var/lib/caddy/.local/share/caddy","instance":"[secret]","try_again":1794830013.7251298,"try_again_in":86399.999999316}
 Nov 15 11:53:33 vertex-vnic caddy[1920]: {"level":"info","ts":1794743613.7252262,"logger":"tls","msg":"finished cleaning storage units"}
 Nov 15 12:28:16 vertex-vnic caddy[1920]: {"level":"error","ts":1794745696.2613769,"logger":"http.log.error","msg":"dial tcp x.x.x.x:8080: connect: connection refused","request":{"remote_ip":"x.x.x.x","remote_port":"55106","client_ip":"x.x.x.x","proto":"HTTP/2.0","method":"GET","host":"140-245-254-251.sslip.io","uri":"/gw/poll?[secret]&wait=15","headers":{"Cache-Control":["no-cache"],"Accept":["*/*,image/webp"],"Netlify-Invocation-Source":["client"],"Sec-Fetch-Mode":["cors"],"Priority":["u=1, i"],"X-Nf-Account-Id":["686d3dd69c5364362f074462"],"Sec-Fetch-Dest":["empty"],"Sec-Ch-Ua":["\"Not-A.Brand\";v=\"99\", \"Google Chrome\";v=\"157\", \"Chromium\";v=\"157\""],"Sec-Ch-Ua-Mobile":["?0"],"Sec-Fetch-Site":["same-origin"],"Accept-Language":["en-GB,en-US;q=0.9,en;q=0.8"],"X-Nf-Netlify-Proxy":["[secret].[secret].[secret]"],"Pragma":["no-cache"],"X-Country":["IN"],"X-Nf-Client-Connection-Ip":["ipv6"],"Accept-Encoding":["br"],"Referer":["https://quorixgames.netlify.app/"],"X-Forwarded-Proto":["https"],"Traceparent":["[secret]"],"Dnt":["1"],"X-Nf-Account-Tier":["account_type_free"],"Sec-Ch-Ua-Platform":["\"Windows\""],"Netlify-Agent-Category":["browser"],"X-Forwarded-For":["ipv6, x.x.x.x"],"User-Agent":["Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/x.x.x.x Safari/537.36"],"Cdn-Loop":["netlify"],"X-Language":["en-GB"],"X-Nf-Site-Id":["[secret]"],"X-Nf-Request-Id":["01M7FJVYDXBAFENY8G5SSP6MCQ"]},"tls":{"resumed":false,"version":772,"cipher_suite":4865,"proto":"h2","server_name":"140-245-254-251.sslip.io","ech":false}},"duration":1.578463692,"status":502,"err_id":"84vr8ggdp","err_trace":"reverseproxy.statusError (reverseproxy.go:1626)"}
+-- Boot [secret] --
+Nov 15 16:38:06 vertex-vnic systemd[1]: Starting Caddy...
+Nov 15 16:38:12 vertex-vnic caddy[1913]: caddy.HomeDir=/var/lib/caddy
+Nov 15 16:38:12 vertex-vnic caddy[1913]: caddy.AppDataDir=/var/lib/caddy/.local/share/caddy
+Nov 15 16:38:12 vertex-vnic caddy[1913]: caddy.AppConfigDir=/var/lib/caddy/.config/caddy
+Nov 15 16:38:12 vertex-vnic caddy[1913]: caddy.[secret].config/caddy/autosave.json
+Nov 15 16:38:12 vertex-vnic caddy[1913]: caddy.Version=v2.11.4 h1:[secret]
+Nov 15 16:38:12 vertex-vnic caddy[1913]: runtime.GOOS=linux
+Nov 15 16:38:12 vertex-vnic caddy[1913]: runtime.GOARCH=amd64
+Nov 15 16:38:12 vertex-vnic caddy[1913]: runtime.Compiler=gc
+Nov 15 16:38:12 vertex-vnic caddy[1913]: runtime.NumCPU=2
+Nov 15 16:38:12 vertex-vnic caddy[1913]: runtime.GOMAXPROCS=2
+Nov 15 16:38:12 vertex-vnic caddy[1913]: runtime.Version=go1.26.4 (Red Hat 1.26.4-1.el9_8)
+Nov 15 16:38:12 vertex-vnic caddy[1913]: os.Getwd=/
+Nov 15 16:38:12 vertex-vnic caddy[1913]: LANG=en_US.UTF-8
+Nov 15 16:38:12 vertex-vnic caddy[1913]: PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin
+Nov 15 16:38:12 vertex-vnic caddy[1913]: [secret]
+Nov 15 16:38:12 vertex-vnic caddy[1913]: HOME=/var/lib/caddy
+Nov 15 16:38:12 vertex-vnic caddy[1913]: LOGNAME=caddy
+Nov 15 16:38:12 vertex-vnic caddy[1913]: USER=caddy
+Nov 15 16:38:12 vertex-vnic caddy[1913]: [secret]
+Nov 15 16:38:12 vertex-vnic caddy[1913]: JOURNAL_STREAM=9:12426
+Nov 15 16:38:12 vertex-vnic caddy[1913]: SYSTEMD_EXEC_PID=1913
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.3953366,"msg":"maxprocs: Leaving GOMAXPROCS=2: CPU quota undefined"}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.3976977,"msg":"GOMEMLIMIT is updated","GOMEMLIMIT":892661760,"previous":9223372036854775807}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.3978884,"msg":"using config from file","file":"/etc/caddy/Caddyfile"}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.3979716,"msg":"adapted config to JSON","adapter":"caddyfile"}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.4053419,"logger":"admin","msg":"admin endpoint started","address":"localhost:2019","enforce_origin":false,"origins":["//localhost:2019","//[::1]:2019","//x.x.x.x:2019"]}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.4074256,"logger":"tls.cache.maintenance","msg":"started background certificate maintenance","cache":"0x1adf2cbce100"}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.407484,"logger":"http.auto_https","msg":"server is listening only on the HTTPS port but has no TLS connection policies; adding one to enable TLS","server_name":"srv0","https_port":443}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.407503,"logger":"http.auto_https","msg":"enabling automatic HTTP->HTTPS redirects","server_name":"srv0"}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.407846,"logger":"http","msg":"enabling HTTP/3 listener","addr":":443"}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.4079983,"msg":"failed to sufficiently increase receive buffer size (was: 224 kiB, wanted: 7168 kiB, got: 448 kiB). See https://github.[secret] for details."}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.4080892,"logger":"http.log","msg":"server running","name":"srv0","protocols":["h1","h2","h3"]}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"warn","ts":1794760692.4081547,"logger":"http","msg":"HTTP/2 skipped because it requires TLS","network":"tcp","addr":":80"}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"warn","ts":1794760692.408163,"logger":"http","msg":"HTTP/3 skipped because it requires TLS","network":"tcp","addr":":80"}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.408168,"logger":"http.log","msg":"server running","name":"remaining_auto_https_redirects","protocols":["h1","h2","h3"]}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.4081743,"logger":"http","msg":"enabling automatic TLS certificate management","domains":["140-245-254-251.sslip.io"]}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.4896317,"msg":"autosaved config (load with --resume flag)","file":"/var/lib/caddy/.config/caddy/autosave.json"}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.4897873,"msg":"serving initial configuration"}
+Nov 15 16:38:12 vertex-vnic systemd[1]: Started Caddy.
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.503551,"logger":"tls","msg":"storage cleaning happened too recently; skipping for now","storage":"FileStorage:/var/lib/caddy/.local/share/caddy","instance":"[secret]","try_again":1794847092.5035481,"try_again_in":86399.999999389}
+Nov 15 16:38:12 vertex-vnic caddy[1913]: {"level":"info","ts":1794760692.5036676,"logger":"tls","msg":"finished cleaning storage units"}
