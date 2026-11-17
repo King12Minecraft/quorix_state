@@ -1,5 +1,5 @@
 {
- "made_at": "2026-11-17T15:19:11Z",
+ "made_at": "2026-11-17T15:21:21Z",
  "kept": [
   "gamehub_achievements.dat",
   "gamehub_best_scores.dat",
@@ -21,7 +21,6 @@
   "gamehub_friends.dat",
   "gamehub_gamesuggestions.txt",
   "gamehub_league.dat",
-  "gamehub_playtime.txt.tmp",
   "gamehub_recovery.dat",
   "gamehub_reserved_names.dat"
  ],
