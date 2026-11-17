@@ -1,8 +1,6 @@
-# 2026-11-17T18:22:41Z
+# 2026-11-17T18:24:51Z
 
 ## quorix-server
-Nov 17 14:51:05 vertex-vnic java[1941]: Web gateway listening on x.x.x.x:7791
-Nov 17 14:51:05 vertex-vnic java[1941]: Backups on: every 24 h into ./backups, keeping 3.
 Nov 17 14:53:51 vertex-vnic java[1941]: Client connected: /x.x.x.x
 Nov 17 14:53:52 vertex-vnic java[1941]: Client disconnected: /x.x.x.x
 Nov 17 14:53:55 vertex-vnic java[1941]: Client connected: /x.x.x.x
@@ -121,6 +119,8 @@ Nov 17 18:19:26 vertex-vnic java[1941]: Client connected: /x.x.x.x
 Nov 17 18:19:26 vertex-vnic java[1941]: Client disconnected: /x.x.x.x
 Nov 17 18:21:36 vertex-vnic java[1941]: Client connected: /x.x.x.x
 Nov 17 18:21:36 vertex-vnic java[1941]: Client disconnected: /x.x.x.x
+Nov 17 18:23:46 vertex-vnic java[1941]: Client connected: /x.x.x.x
+Nov 17 18:23:46 vertex-vnic java[1941]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 12 11:29:12 vertex-vnic systemd[1]: quorix-web.service: Deactivated successfully.
