@@ -1,26 +1,6 @@
-# 2026-11-20T07:24:10Z
+# 2026-11-20T10:23:20Z
 
 ## quorix-server
-Nov 20 05:40:42 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 20 05:40:42 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
-Nov 20 05:56:17 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
-Nov 20 05:56:17 vertex-vnic java[1937]: Closing a client that stopped reading: /x.x.x.x
-Nov 20 05:57:16 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 20 05:57:16 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
-Nov 20 05:59:36 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 20 05:59:36 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
-Nov 20 06:01:46 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 20 06:01:46 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
-Nov 20 06:02:19 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 20 06:02:19 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
-Nov 20 06:03:05 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 20 06:03:05 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
-Nov 20 06:03:05 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 20 06:03:05 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
-Nov 20 06:03:05 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 20 06:03:05 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
-Nov 20 06:03:06 vertex-vnic java[1937]: Client connected: /x.x.x.x
-Nov 20 06:03:06 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 Nov 20 06:03:56 vertex-vnic java[1937]: Client connected: /x.x.x.x
 Nov 20 06:03:56 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 Nov 20 06:06:06 vertex-vnic java[1937]: Client connected: /x.x.x.x
@@ -121,6 +101,26 @@ Nov 20 07:23:08 vertex-vnic java[1937]: Client connected: /x.x.x.x
 Nov 20 07:23:08 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 Nov 20 07:24:08 vertex-vnic java[1937]: Client connected: /x.x.x.x
 Nov 20 07:24:09 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 20 07:25:09 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 20 07:25:10 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 20 10:23:07 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 20 10:23:09 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 20 10:23:09 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 20 10:23:09 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 20 10:23:09 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 20 10:23:09 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 20 10:23:10 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 20 10:23:10 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 20 10:23:10 vertex-vnic java[1937]: Client connected: /x.x.x.x
+Nov 20 10:23:10 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 20 10:23:10 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 20 10:23:10 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 20 10:23:10 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 20 10:23:10 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 20 10:23:10 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 20 10:23:11 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 20 10:23:11 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
+Nov 20 10:23:11 vertex-vnic java[1937]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 12 16:50:19 vertex-vnic systemd[1]: Stopping Quorix website (sign-in, leaderboards, live stats, Dominion map, voting)...
@@ -256,10 +256,6 @@ Nov 19 10:02:41 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderb
 Nov 19 10:02:54 vertex-vnic waitress-serve[1940]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
-Nov 17 14:50:51 vertex-vnic caddy[1915]: {"level":"info","ts":1794927051.31855,"msg":"using config from file","file":"/etc/caddy/Caddyfile"}
-Nov 17 14:50:51 vertex-vnic caddy[1915]: {"level":"info","ts":1794927051.318559,"msg":"adapted config to JSON","adapter":"caddyfile"}
-Nov 17 14:50:51 vertex-vnic caddy[1915]: {"level":"info","ts":1794927051.3249793,"logger":"admin","msg":"admin endpoint started","address":"localhost:2019","enforce_origin":false,"origins":["//localhost:2019","//[::1]:2019","//x.x.x.x:2019"]}
-Nov 17 14:50:51 vertex-vnic caddy[1915]: {"level":"info","ts":1794927051.3277717,"logger":"http.auto_https","msg":"server is listening only on the HTTPS port but has no TLS connection policies; adding one to enable TLS","server_name":"srv0","https_port":443}
 Nov 17 14:50:51 vertex-vnic caddy[1915]: {"level":"info","ts":1794927051.3299928,"logger":"http.auto_https","msg":"enabling automatic HTTP->HTTPS redirects","server_name":"srv0"}
 Nov 17 14:50:51 vertex-vnic caddy[1915]: {"level":"info","ts":1794927051.3299298,"logger":"tls.cache.maintenance","msg":"started background certificate maintenance","cache":"0x6a1b51d2c80"}
 Nov 17 14:50:51 vertex-vnic caddy[1915]: {"level":"warn","ts":1794927051.4248116,"logger":"http","msg":"HTTP/2 skipped because it requires TLS","network":"tcp","addr":":80"}
@@ -378,3 +374,7 @@ Nov 19 20:49:43 vertex-vnic caddy[1918]: {"level":"info","ts":1795121383.7886133
 Nov 19 20:49:43 vertex-vnic caddy[1918]: {"level":"info","ts":1795121383.794504,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1795141340.7886033,"explanation_url":""}
 Nov 20 02:22:48 vertex-vnic caddy[1918]: {"level":"info","ts":1795141368.9357507,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1797008324,"recheck_after":1795164398.935713,"explanation_url":""}
 Nov 20 02:22:48 vertex-vnic caddy[1918]: {"level":"info","ts":1795141368.9423144,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1795164398.935713,"explanation_url":""}
+Nov 20 10:23:12 vertex-vnic caddy[1918]: {"level":"info","ts":1795170192.670098,"logger":"tls","msg":"cleaning storage unit","storage":"FileStorage:/var/lib/caddy/.local/share/caddy"}
+Nov 20 10:23:12 vertex-vnic caddy[1918]: {"level":"info","ts":1795170192.8689692,"logger":"tls","msg":"finished cleaning storage units"}
+Nov 20 10:23:15 vertex-vnic caddy[1918]: {"level":"info","ts":1795170195.066183,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796995783,"recheck_after":1795192581.0661693,"explanation_url":""}
+Nov 20 10:23:15 vertex-vnic caddy[1918]: {"level":"info","ts":1795170195.0836139,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1795192581.0661693,"explanation_url":""}
