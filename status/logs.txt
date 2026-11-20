@@ -1,12 +1,6 @@
-# 2026-11-20T22:00:10Z
+# 2026-11-20T23:37:37Z
 
 ## quorix-server
-Nov 20 20:12:58 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 20 20:12:58 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 20 20:15:11 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 20 20:15:11 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 20 20:17:21 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 20 20:17:21 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
 Nov 20 20:19:31 vertex-vnic java[1942]: Client connected: /x.x.x.x
 Nov 20 20:19:31 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
 Nov 20 20:20:07 vertex-vnic java[1942]: Client connected: /x.x.x.x
@@ -121,6 +115,12 @@ Nov 20 21:58:13 vertex-vnic java[1942]: Client connected: /x.x.x.x
 Nov 20 21:58:14 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
 Nov 20 21:59:15 vertex-vnic java[1942]: Client connected: /x.x.x.x
 Nov 20 21:59:16 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
+Nov 20 22:00:14 vertex-vnic java[1942]: Client connected: /x.x.x.x
+Nov 20 22:00:14 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
+Nov 20 22:01:14 vertex-vnic java[1942]: Client connected: /x.x.x.x
+Nov 20 22:01:14 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
+Nov 20 23:37:28 vertex-vnic java[1942]: Client connected: /x.x.x.x
+Nov 20 23:37:31 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 12 16:50:19 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
@@ -257,8 +257,6 @@ Nov 20 11:43:32 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderb
 Nov 20 11:43:48 vertex-vnic waitress-serve[1943]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
-Nov 18 16:16:43 vertex-vnic caddy[1917]: {"level":"info","ts":1795018603.7040665,"msg":"maxprocs: Leaving GOMAXPROCS=2: CPU quota undefined"}
-Nov 18 16:16:43 vertex-vnic caddy[1917]: {"level":"info","ts":1795018603.7041256,"msg":"GOMEMLIMIT is updated","GOMEMLIMIT":892661760,"previous":9223372036854775807}
 Nov 18 16:16:43 vertex-vnic caddy[1917]: {"level":"info","ts":1795018603.7041328,"msg":"using config from file","file":"/etc/caddy/Caddyfile"}
 Nov 18 16:16:43 vertex-vnic caddy[1917]: {"level":"info","ts":1795018603.7041383,"msg":"adapted config to JSON","adapter":"caddyfile"}
 Nov 18 16:16:43 vertex-vnic caddy[1917]: {"level":"info","ts":1795018603.806069,"logger":"admin","msg":"admin endpoint started","address":"localhost:2019","enforce_origin":false,"origins":["//x.x.x.x:2019","//localhost:2019","//[::1]:2019"]}
@@ -379,3 +377,5 @@ Nov 20 11:43:38 vertex-vnic caddy[1917]: {"level":"info","ts":1795175018.2021258
 Nov 20 11:43:38 vertex-vnic caddy[1917]: {"level":"info","ts":1795175018.202232,"logger":"tls","msg":"finished cleaning storage units"}
 Nov 20 16:46:01 vertex-vnic caddy[1917]: {"level":"info","ts":1795193161.8621273,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796988009,"recheck_after":1795217459.8620696,"explanation_url":""}
 Nov 20 16:46:01 vertex-vnic caddy[1917]: {"level":"info","ts":1795193161.8718,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1795217459.8620696,"explanation_url":""}
+Nov 20 23:37:33 vertex-vnic caddy[1917]: {"level":"info","ts":1795217853.8637867,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796924561,"recheck_after":1795242505.8636093,"explanation_url":""}
+Nov 20 23:37:33 vertex-vnic caddy[1917]: {"level":"info","ts":1795217853.8790329,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1795242505.8636093,"explanation_url":""}
