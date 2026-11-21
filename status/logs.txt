@@ -1,21 +1,6 @@
-# 2026-11-21T01:10:35Z
+# 2026-11-21T03:33:36Z
 
 ## quorix-server
-Nov 20 21:37:41 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 20 21:37:41 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 20 21:39:51 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 20 21:39:51 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 20 21:42:01 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 20 21:42:01 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 20 21:44:11 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 20 21:44:11 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 20 21:46:21 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 20 21:46:21 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 20 21:48:31 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 20 21:48:31 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 20 21:50:41 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 20 21:50:41 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 20 21:50:59 vertex-vnic java[1942]: Client connected: /x.x.x.x
 Nov 20 21:50:59 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
 Nov 20 21:50:59 vertex-vnic java[1942]: Client connected: /x.x.x.x
 Nov 20 21:50:59 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
@@ -121,6 +106,21 @@ Nov 21 01:07:21 vertex-vnic java[1942]: Client connected: /x.x.x.x
 Nov 21 01:07:21 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
 Nov 21 01:09:24 vertex-vnic java[1942]: Client connected: /x.x.x.x
 Nov 21 01:09:25 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
+Nov 21 01:11:24 vertex-vnic java[1942]: Client connected: /x.x.x.x
+Nov 21 01:11:25 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
+Nov 21 03:33:25 vertex-vnic java[1942]: Client connected: /x.x.x.x
+Nov 21 03:33:26 vertex-vnic java[1942]: Client connected: /x.x.x.x
+Nov 21 03:33:26 vertex-vnic java[1942]: Client connected: /x.x.x.x
+Nov 21 03:33:26 vertex-vnic java[1942]: Client connected: /x.x.x.x
+Nov 21 03:33:27 vertex-vnic java[1942]: Client connected: /x.x.x.x
+Nov 21 03:33:27 vertex-vnic java[1942]: Client connected: /x.x.x.x
+Nov 21 03:33:28 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
+Nov 21 03:33:28 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
+Nov 21 03:33:29 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
+Nov 21 03:33:29 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
+Nov 21 03:33:29 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
+Nov 21 03:33:29 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
+Nov 21 03:33:34 vertex-vnic java[1942]: Backup written: quorix-backup-20261121-033332.zip
 
 ## quorix-web
 Nov 12 16:50:19 vertex-vnic systemd[1]: Stopped Quorix website (sign-in, leaderboards, live stats, Dominion map, voting).
