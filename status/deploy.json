@@ -1,1 +1,1 @@
-{"state":"ok","commit":"2742b208b2ec54cc3b1fc7d38d908331f9433eae","previous":"133544ae8a31855e1f03660e69914a67bc6a2133","message":"deployed; server untouched ","at":"2026-11-22T13:25:15Z"}
+{"state":"fetch-failed","commit":"","previous":"none","message":"git@github.com: Permission denied (publickey). fatal: Could not read from remote repository.  Please make sure you have the correct access rights and the repository exists. ","at":"2026-11-24T22:30:14Z"}
