@@ -1,1 +1,1 @@
-{"state":"fetch-failed","commit":"","previous":"none","message":"git@github.com: Permission denied (publickey). fatal: Could not read from remote repository.  Please make sure you have the correct access rights and the repository exists. ","at":"2026-11-24T22:30:14Z"}
+{"state":"fetch-failed","commit":"","previous":"none","message":"Connection to github.com closed by remote host. ","at":"2026-11-25T04:25:48Z"}
