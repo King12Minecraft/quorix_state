@@ -1,10 +1,6 @@
-# 2026-11-25T20:40:22Z
+# 2026-11-25T23:38:00Z
 
 ## quorix-server
-Nov 25 17:34:01 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 25 17:34:01 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
-Nov 25 17:36:11 vertex-vnic java[1942]: Client connected: /x.x.x.x
-Nov 25 17:36:11 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
 Nov 25 17:37:12 vertex-vnic java[1942]: Client connected: /x.x.x.x
 Nov 25 17:37:12 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
 Nov 25 17:38:16 vertex-vnic java[1942]: Client connected: /x.x.x.x
@@ -121,6 +117,10 @@ Nov 25 20:38:27 vertex-vnic java[1942]: Client connected: /x.x.x.x
 Nov 25 20:38:30 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
 Nov 25 20:39:23 vertex-vnic java[1942]: Client connected: /x.x.x.x
 Nov 25 20:39:24 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
+Nov 25 20:40:26 vertex-vnic java[1942]: Client connected: /x.x.x.x
+Nov 25 20:40:28 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
+Nov 25 20:41:26 vertex-vnic java[1942]: Client connected: /x.x.x.x
+Nov 25 20:41:26 vertex-vnic java[1942]: Client disconnected: /x.x.x.x
 
 ## quorix-web
 Nov 13 02:11:22 vertex-vnic systemd[1]: quorix-web.service: Consumed 3min 49.676s CPU time.
@@ -257,8 +257,6 @@ Nov 22 13:25:12 vertex-vnic systemd[1]: Started Quorix website (sign-in, leaderb
 Nov 22 13:25:13 vertex-vnic waitress-serve[73891]: INFO:waitress:Serving on http://x.x.x.x:8080
 
 ## caddy
-Nov 19 10:02:47 vertex-vnic caddy[1918]: {"level":"info","ts":1795082567.6786397,"msg":"using config from file","file":"/etc/caddy/Caddyfile"}
-Nov 19 10:02:47 vertex-vnic caddy[1918]: {"level":"info","ts":1795082567.6786456,"msg":"adapted config to JSON","adapter":"caddyfile"}
 Nov 19 10:02:47 vertex-vnic caddy[1918]: {"level":"info","ts":1795082567.6801744,"logger":"admin","msg":"admin endpoint started","address":"localhost:2019","enforce_origin":false,"origins":["//localhost:2019","//[::1]:2019","//x.x.x.x:2019"]}
 Nov 19 10:02:47 vertex-vnic caddy[1918]: {"level":"info","ts":1795082567.6803446,"logger":"http.auto_https","msg":"server is listening only on the HTTPS port but has no TLS connection policies; adding one to enable TLS","server_name":"srv0","https_port":443}
 Nov 19 10:02:47 vertex-vnic caddy[1918]: {"level":"info","ts":1795082567.680366,"logger":"http.auto_https","msg":"enabling automatic HTTP->HTTPS redirects","server_name":"srv0"}
@@ -378,3 +376,5 @@ Nov 25 11:43:38 vertex-vnic caddy[1917]: {"level":"info","ts":1795607018.1229205
 Nov 25 11:43:38 vertex-vnic caddy[1917]: {"level":"info","ts":1795607018.1328003,"logger":"tls","msg":"finished cleaning storage units"}
 Nov 25 16:13:41 vertex-vnic caddy[1917]: {"level":"info","ts":1795623221.8633032,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796911219,"recheck_after":1795640548.8630588,"explanation_url":""}
 Nov 25 16:13:41 vertex-vnic caddy[1917]: {"level":"info","ts":1795623221.9630325,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1795640548.8630588,"explanation_url":""}
+Nov 25 23:37:57 vertex-vnic caddy[1917]: {"level":"info","ts":1795649877.56378,"logger":"http.acme_client","msg":"got renewal info","names":["140-245-254-251.sslip.io"],"window_start":1796910059,"window_end":1797065509,"selected_time":1796996356,"recheck_after":1795672431.5637481,"explanation_url":""}
+Nov 25 23:37:57 vertex-vnic caddy[1917]: {"level":"info","ts":1795649877.570114,"logger":"tls.cache.maintenance","msg":"updated and stored ACME renewal information","identifiers":["140-245-254-251.sslip.io"],"cert_hash":"[secret]","ari_unique_id":"uVnyjs8i8IbTN0j_dhQYuoLYVYc.BXUEI-2ZknIImAcd5VUU9P-p","cert_expiry":1799578614,"selected_time":1797014739,"next_update":1795672431.5637481,"explanation_url":""}
